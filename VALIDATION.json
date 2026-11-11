@@ -1,0 +1,16 @@
+{
+  "release": "v0.1.0-beta.1",
+  "hardware": "owner confirmed Alpha 1.4 working; supplied latest log shows game exit 0 and restored volume/lower screen",
+  "runtime_binary_changes_from_working_alpha14": false,
+  "importer_unit_tests": 6,
+  "verifier_unit_tests": 5,
+  "checks": {
+    "clean_original_gog_installer_import_all_450_checksums": "passed",
+    "second_launch_without_installer": "passed",
+    "existing_alpha14_without_installer_and_save_preservation": "passed",
+    "modified_pinned_core_rejected": "passed",
+    "public_tree_proprietary_and_private_file_audit": "passed",
+    "exact_public_release_zip_clean_import_and_verification": "passed"
+  },
+  "limits": "Public packaging/importer checked locally. No claim of exhaustive all-mode testing. Owner hardware session is the basis for Beta status."
+}

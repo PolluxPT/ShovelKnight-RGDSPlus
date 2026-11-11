@@ -1,0 +1,2255 @@
+{
+  "version": "GOG Linux Treasure Trove 4.1",
+  "files": {
+    "game/64/ShovelKnight": {
+      "size": 14536483,
+      "source_sha256": "e7a20fb03806fe360e4e15975728039d53ffd80ae03058aab0c5d5da7bb8ab24",
+      "sha256": "e7a20fb03806fe360e4e15975728039d53ffd80ae03058aab0c5d5da7bb8ab24"
+    },
+    "game/64/lib/libfmodex64.so": {
+      "size": 1297008,
+      "source_sha256": "4c0622369fec6bff4d80d365d1aee1de90b9af0ce129ad95da6b104ff4e945e8",
+      "sha256": "4c0622369fec6bff4d80d365d1aee1de90b9af0ce129ad95da6b104ff4e945e8"
+    },
+    "game/64/lib/libfmodevent64.so": {
+      "size": 561576,
+      "source_sha256": "753325d9894e785941703ec73389c6ec4db29f48919b74ac09d205d390cc4afe",
+      "sha256": "50d0d168955ed298c34bfecc7a83a6a6f0fcfb2a8431f7fdcff73bba32f6022a"
+    },
+    "game/64/lib/libBox2D.so.2.1.0": {
+      "size": 418257,
+      "source_sha256": "a1d81407394bab9b85d1ccbc92ea8d1901096dc1376590b925460fbbf9701855",
+      "sha256": "a1d81407394bab9b85d1ccbc92ea8d1901096dc1376590b925460fbbf9701855"
+    },
+    "game/64/lib/libGLEW.so.1.10": {
+      "size": 700817,
+      "source_sha256": "6f50384c8c54e55ec8fb6a1481370ee0faea454448c2bbf10248936994f0b1b4",
+      "sha256": "6f50384c8c54e55ec8fb6a1481370ee0faea454448c2bbf10248936994f0b1b4"
+    },
+    "game/data/battle_colosseum1.pak": {
+      "size": 158904,
+      "source_sha256": "e402d482423d42d250139a40cf44edfdd36d3330ad2037db570d0172668af773",
+      "sha256": "e402d482423d42d250139a40cf44edfdd36d3330ad2037db570d0172668af773"
+    },
+    "game/data/flying_machine_objects.pak": {
+      "size": 107960,
+      "source_sha256": "318f919c70c2cc28dce30b4ce523fe1c1af26993cb76fcefa5190aab22b4a832",
+      "sha256": "318f919c70c2cc28dce30b4ce523fe1c1af26993cb76fcefa5190aab22b4a832"
+    },
+    "game/data/battle_potionarium.pak": {
+      "size": 327032,
+      "source_sha256": "9225974afa9a9e0b5340135c9b3658b24caa5e1cea316b7f4d170897830f1bee",
+      "sha256": "9225974afa9a9e0b5340135c9b3658b24caa5e1cea316b7f4d170897830f1bee"
+    },
+    "game/data/KK_Encounter_PropellerKnight.pak": {
+      "size": 156824,
+      "source_sha256": "7f19af7119f97397806870a7b7b9d2304c2b72b68da19d61e6dd51d30f490f9f",
+      "sha256": "7f19af7119f97397806870a7b7b9d2304c2b72b68da19d61e6dd51d30f490f9f"
+    },
+    "game/data/challenge_34.pak": {
+      "size": 380920,
+      "source_sha256": "33cb32484b3848403a06cca388f1298c66b612adeb890237cd1e1f42e9608fbf",
+      "sha256": "33cb32484b3848403a06cca388f1298c66b612adeb890237cd1e1f42e9608fbf"
+    },
+    "game/data/showdown.fsb": {
+      "size": 8644448,
+      "source_sha256": "f6a835ba4470794a4daef8e8c9dbffe56285e9cf4ad6e9f33c9fd32b67bacec0",
+      "sha256": "f6a835ba4470794a4daef8e8c9dbffe56285e9cf4ad6e9f33c9fd32b67bacec0"
+    },
+    "game/data/kk_w1_lichyard_2.pak": {
+      "size": 662976,
+      "source_sha256": "5fa407866f5477b53eef382ba06706f34e138bfc31d7f3c419482a3ed993d031",
+      "sha256": "5fa407866f5477b53eef382ba06706f34e138bfc31d7f3c419482a3ed993d031"
+    },
+    "game/data/kk_w2_explodatorium_1.pak": {
+      "size": 418368,
+      "source_sha256": "eb82ff43d615537f3b61a1b33f14323396fd37f5801822811db056574d6044a2",
+      "sha256": "eb82ff43d615537f3b61a1b33f14323396fd37f5801822811db056574d6044a2"
+    },
+    "game/data/battle_menu.pak": {
+      "size": 3514968,
+      "source_sha256": "cb9791ef86ce66910e02437de427b220a726758b3ddacac2c45a8582f75e48f0",
+      "sha256": "cb9791ef86ce66910e02437de427b220a726758b3ddacac2c45a8582f75e48f0"
+    },
+    "game/data/credits_troupple_king.pak": {
+      "size": 499632,
+      "source_sha256": "33580164b7367f6952357dc1a2e5939e7dc3002f297374961eff2bd77d342290",
+      "sha256": "33580164b7367f6952357dc1a2e5939e7dc3002f297374961eff2bd77d342290"
+    },
+    "game/data/credits_troupple_king_specter.pak": {
+      "size": 50032,
+      "source_sha256": "4da216f78d35da6d6d5197b205e7adfd9557055681cb5718c33b90803a55afd3",
+      "sha256": "4da216f78d35da6d6d5197b205e7adfd9557055681cb5718c33b90803a55afd3"
+    },
+    "game/data/kk_w4_tower_4.pak": {
+      "size": 1339992,
+      "source_sha256": "792eec89f40583900df8057b68b318d1a5d2cf1d53ed86151932969cfb29f0b8",
+      "sha256": "792eec89f40583900df8057b68b318d1a5d2cf1d53ed86151932969cfb29f0b8"
+    },
+    "game/data/battle_giga_mirror.pak": {
+      "size": 1661856,
+      "source_sha256": "221f5dad94712e2d85d4cc855e30b1985b3c9220f7835e3d59085a05c9e14503",
+      "sha256": "221f5dad94712e2d85d4cc855e30b1985b3c9220f7835e3d59085a05c9e14503"
+    },
+    "game/data/float_sequenceLichYard.pak": {
+      "size": 161976,
+      "source_sha256": "cffab5c18699aeb7015844898d49e62abac0448c3207142566a32e0b70ea875a",
+      "sha256": "cffab5c18699aeb7015844898d49e62abac0448c3207142566a32e0b70ea875a"
+    },
+    "game/data/kingPlayerRope.pak": {
+      "size": 173240,
+      "source_sha256": "bd708d32fdb897d0755fcbf4ea321b67a6882cbd12a245282a59299ac4a0c583",
+      "sha256": "bd708d32fdb897d0755fcbf4ea321b67a6882cbd12a245282a59299ac4a0c583"
+    },
+    "game/data/credits_pridemoor_specter.pak": {
+      "size": 851048,
+      "source_sha256": "26bc99427d809c686433b4249b832e8ad9fdb4ebbab511be9fdceda51f02f2c1",
+      "sha256": "26bc99427d809c686433b4249b832e8ad9fdb4ebbab511be9fdceda51f02f2c1"
+    },
+    "game/data/loctext_global.pak": {
+      "size": 695904,
+      "source_sha256": "dc6aa5d4336abe204f93afc6414b857344a6573f51dc10e436c197a3a83c1001",
+      "sha256": "dc6aa5d4336abe204f93afc6414b857344a6573f51dc10e436c197a3a83c1001"
+    },
+    "game/data/battle_troupple_king.pak": {
+      "size": 551632,
+      "source_sha256": "813b8a67e5a24f63d609749f1bf052340e8334786d30d82677fc76edfbeef9df",
+      "sha256": "813b8a67e5a24f63d609749f1bf052340e8334786d30d82677fc76edfbeef9df"
+    },
+    "game/data/dream_sequence_end_specter.pak": {
+      "size": 339104,
+      "source_sha256": "54277464ee5387025e9af80886afd3e35aaa76e52a23a92ed3e4801f7fe37698",
+      "sha256": "54277464ee5387025e9af80886afd3e35aaa76e52a23a92ed3e4801f7fe37698"
+    },
+    "game/data/tower_objects.pak": {
+      "size": 412008,
+      "source_sha256": "bfa32d5437793151638b96d3d061f74f433f44c9c4dcec45ba7cb86636c59fb3",
+      "sha256": "bfa32d5437793151638b96d3d061f74f433f44c9c4dcec45ba7cb86636c59fb3"
+    },
+    "game/data/rollCourse_w1.pak": {
+      "size": 307496,
+      "source_sha256": "723de33ca3f8145bb3464e08d8daa1446e468f4c1d4bf1594870112bb3e9fb5c",
+      "sha256": "723de33ca3f8145bb3464e08d8daa1446e468f4c1d4bf1594870112bb3e9fb5c"
+    },
+    "game/data/plagueknight.pak": {
+      "size": 275008,
+      "source_sha256": "cfadc4dcd598f08660765693cac5d6d094078ee866521d49b50e2d121008a166",
+      "sha256": "cfadc4dcd598f08660765693cac5d6d094078ee866521d49b50e2d121008a166"
+    },
+    "game/data/battle_lost_city.pak": {
+      "size": 168160,
+      "source_sha256": "64c7e97223823201aeebc92fe8e150976eadf3003e0c0a45f91a4eb0d378b9cd",
+      "sha256": "64c7e97223823201aeebc92fe8e150976eadf3003e0c0a45f91a4eb0d378b9cd"
+    },
+    "game/data/float_sequenceBirder.pak": {
+      "size": 207288,
+      "source_sha256": "cad2dda12b5493be7e20e5d3b40a58858d42f5d766a8479210784a1af1cab8f6",
+      "sha256": "cad2dda12b5493be7e20e5d3b40a58858d42f5d766a8479210784a1af1cab8f6"
+    },
+    "game/data/kk_w3_flyingmachine_2.pak": {
+      "size": 278656,
+      "source_sha256": "93c54df350dcf9090cdc419ca9c65bc0408433249307be8a50bc61cfee0c2585",
+      "sha256": "93c54df350dcf9090cdc419ca9c65bc0408433249307be8a50bc61cfee0c2585"
+    },
+    "game/data/loctext_rus.pak": {
+      "size": 639224,
+      "source_sha256": "3296f0d02f903c815cf2918ccceb7a6b668f0f119f0444d1351aa341310f4515",
+      "sha256": "3296f0d02f903c815cf2918ccceb7a6b668f0f119f0444d1351aa341310f4515"
+    },
+    "game/data/alchemy_lab_v2.pak": {
+      "size": 562016,
+      "source_sha256": "14c0fff4aa6aaf70777b86272d13876fb3a16e354bce56c31684caad677b80a0",
+      "sha256": "14c0fff4aa6aaf70777b86272d13876fb3a16e354bce56c31684caad677b80a0"
+    },
+    "game/data/battle_cinema_intro_RightLeft.pak": {
+      "size": 141792,
+      "source_sha256": "4fca8131772b669d83d419999f490181dd6eebaff7dd3a4480f9b2f1c0b1b7b4",
+      "sha256": "4fca8131772b669d83d419999f490181dd6eebaff7dd3a4480f9b2f1c0b1b7b4"
+    },
+    "game/data/specterPlayerCampaign.pak": {
+      "size": 344136,
+      "source_sha256": "2ef28ed79f80228461f1a8d804572791e3a3bcd00f224de990fa4d4061ee8d5b",
+      "sha256": "2ef28ed79f80228461f1a8d804572791e3a3bcd00f224de990fa4d4061ee8d5b"
+    },
+    "game/data/challenge_23.pak": {
+      "size": 163056,
+      "source_sha256": "c27586da01002903feea7f48764cb435442c556add7350cdc97901ae785dfdf2",
+      "sha256": "c27586da01002903feea7f48764cb435442c556add7350cdc97901ae785dfdf2"
+    },
+    "game/data/loctext_zhs.pak": {
+      "size": 416424,
+      "source_sha256": "f40999fc261157f400061e5f1dcaf87131bddeda762cd7c5e8d3ac44cd54cef6",
+      "sha256": "f40999fc261157f400061e5f1dcaf87131bddeda762cd7c5e8d3ac44cd54cef6"
+    },
+    "game/data/challenge_38.pak": {
+      "size": 129640,
+      "source_sha256": "8a04caa58b47bbc38eb045346e7815e608dfcf523ddfef52d46d604547dfe7be",
+      "sha256": "8a04caa58b47bbc38eb045346e7815e608dfcf523ddfef52d46d604547dfe7be"
+    },
+    "game/data/global_boot.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/kk_w3_strandedship_2.pak": {
+      "size": 522288,
+      "source_sha256": "b9cd7be99a91c92d8b52f0a2ba8ee4825baef1bb076509225faa25b2e6122978",
+      "sha256": "b9cd7be99a91c92d8b52f0a2ba8ee4825baef1bb076509225faa25b2e6122978"
+    },
+    "game/data/battle_pridemoor.pak": {
+      "size": 275632,
+      "source_sha256": "5416cefcad6bbb9ee815b95d5032983a023d8e90c8c50db20fade067a81a3207",
+      "sha256": "5416cefcad6bbb9ee815b95d5032983a023d8e90c8c50db20fade067a81a3207"
+    },
+    "game/data/credits_plainsOfPassage_specter.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/demo_level_map.pak": {
+      "size": 184408,
+      "source_sha256": "73c8dcf69ac716abcee6451beecc81b3c7bc4882182e32396f7082f7d319a4ae",
+      "sha256": "73c8dcf69ac716abcee6451beecc81b3c7bc4882182e32396f7082f7d319a4ae"
+    },
+    "game/data/reize.pak": {
+      "size": 112264,
+      "source_sha256": "13fa5c3864671a174be8bd63f363d7614f6466c61c70ca7a185567d2622f263d",
+      "sha256": "13fa5c3864671a174be8bd63f363d7614f6466c61c70ca7a185567d2622f263d"
+    },
+    "game/data/credits_airship_king.pak": {
+      "size": 925744,
+      "source_sha256": "e29707bdcfa5a0230070fc8370aeac040a73d22b5dfd7eb27b05315785c6a27b",
+      "sha256": "e29707bdcfa5a0230070fc8370aeac040a73d22b5dfd7eb27b05315785c6a27b"
+    },
+    "game/data/kk_w1_pridemoor_1.pak": {
+      "size": 405408,
+      "source_sha256": "b929fa1f9f568c07b850942bc2ea24b9aad76370d8a344395cf015b0edb30dae",
+      "sha256": "b929fa1f9f568c07b850942bc2ea24b9aad76370d8a344395cf015b0edb30dae"
+    },
+    "game/data/specterNPC.pak": {
+      "size": 836824,
+      "source_sha256": "df485cdc095b0b22810853202291af840eb15e60a7b5050fa390e8ef6652563e",
+      "sha256": "df485cdc095b0b22810853202291af840eb15e60a7b5050fa390e8ef6652563e"
+    },
+    "game/data/event_BattleToads_p.pak": {
+      "size": 144600,
+      "source_sha256": "a0a2cd4ae980b7a77a873efd0a224af98d99b17dad47d9471acabeaaa2e79216",
+      "sha256": "a0a2cd4ae980b7a77a873efd0a224af98d99b17dad47d9471acabeaaa2e79216"
+    },
+    "game/data/credits_clockwork_tower.pak": {
+      "size": 88776,
+      "source_sha256": "9cfb4c1808b32f7c34c5c3f652515a60325d483876cb3893803876029bdcad8f",
+      "sha256": "9cfb4c1808b32f7c34c5c3f652515a60325d483876cb3893803876029bdcad8f"
+    },
+    "game/data/credits_towerHub_specter.pak": {
+      "size": 593968,
+      "source_sha256": "48d816d60e9ee48a8bb8b2a908bad8280b00d9226297c9b55c09fd298098b5fe",
+      "sha256": "48d816d60e9ee48a8bb8b2a908bad8280b00d9226297c9b55c09fd298098b5fe"
+    },
+    "game/data/deathTallyKing.pak": {
+      "size": 1480,
+      "source_sha256": "63e66b8007cc8908e24fcd84a4f7f1663b5638db0cca2874852e0252c9c82386",
+      "sha256": "63e66b8007cc8908e24fcd84a4f7f1663b5638db0cca2874852e0252c9c82386"
+    },
+    "game/data/encounter_Reize.pak": {
+      "size": 54240,
+      "source_sha256": "6cdf3ae02efeb87b23eab7d9f636ffbc34ad1dd27d86298f025fa3f8fe6c5185",
+      "sha256": "6cdf3ae02efeb87b23eab7d9f636ffbc34ad1dd27d86298f025fa3f8fe6c5185"
+    },
+    "game/data/relicChallenge_03_plague.pak": {
+      "size": 310256,
+      "source_sha256": "c75149359120b19f6d6a2a6d7b622cfe4442967ed0ee377c813cd50af7369506",
+      "sha256": "c75149359120b19f6d6a2a6d7b622cfe4442967ed0ee377c813cd50af7369506"
+    },
+    "game/data/challenge_42.pak": {
+      "size": 145112,
+      "source_sha256": "c32b35221d57cf87f25ff8e8c464d56c108f09a975e8148958bbc560eebcea70",
+      "sha256": "c32b35221d57cf87f25ff8e8c464d56c108f09a975e8148958bbc560eebcea70"
+    },
+    "game/data/battle_colosseum_flat.pak": {
+      "size": 251272,
+      "source_sha256": "7f8701c446764e284e61b3fd957d6647f0b7ff9133749d18c100f6bf0d53194c",
+      "sha256": "7f8701c446764e284e61b3fd957d6647f0b7ff9133749d18c100f6bf0d53194c"
+    },
+    "game/data/battle_target.pak": {
+      "size": 534928,
+      "source_sha256": "48ed58f207b895ea84df6ec6bd3997420c9b72f8830288d6af460460c5773a92",
+      "sha256": "48ed58f207b895ea84df6ec6bd3997420c9b72f8830288d6af460460c5773a92"
+    },
+    "game/data/battle_cinema_intro_UpDown.pak": {
+      "size": 147640,
+      "source_sha256": "5dfef837f185ad045875c0c9e52ad1d99796f43324a5b65947aa2ef487fcbb09",
+      "sha256": "5dfef837f185ad045875c0c9e52ad1d99796f43324a5b65947aa2ef487fcbb09"
+    },
+    "game/data/credits_flying_machine_specter.pak": {
+      "size": 249176,
+      "source_sha256": "5733c61f8bda5a1b20329bc5d878dde9e056799110d89cb2f8556dd17da98ff6",
+      "sha256": "5733c61f8bda5a1b20329bc5d878dde9e056799110d89cb2f8556dd17da98ff6"
+    },
+    "game/data/credits_flying_machine_plague.pak": {
+      "size": 135936,
+      "source_sha256": "52e4fc29f4420474baac701c2e3d6ea1f74d38aa7b2122b509d611581f4a7e48",
+      "sha256": "52e4fc29f4420474baac701c2e3d6ea1f74d38aa7b2122b509d611581f4a7e48"
+    },
+    "game/data/npcs_armorer.pak": {
+      "size": 200128,
+      "source_sha256": "3a71f3060027510968bc1d2ae1372db31640f7d583c714fb35f0f4ecc5713e55",
+      "sha256": "3a71f3060027510968bc1d2ae1372db31640f7d583c714fb35f0f4ecc5713e55"
+    },
+    "game/data/dadTalk_troupple.pak": {
+      "size": 351096,
+      "source_sha256": "3eb296852f6f2f49deed4ec0b3c1d40b1cedd19ce65769ed9be275e996bb2bb8",
+      "sha256": "3eb296852f6f2f49deed4ec0b3c1d40b1cedd19ce65769ed9be275e996bb2bb8"
+    },
+    "game/data/plague_effects.fsb": {
+      "size": 1026592,
+      "source_sha256": "bf45e0e94720935bf22e9ba92cf4a78159bb282dfa33424d8e88bff6a8b4188b",
+      "sha256": "bf45e0e94720935bf22e9ba92cf4a78159bb282dfa33424d8e88bff6a8b4188b"
+    },
+    "game/data/credits_strandedShip_plague.pak": {
+      "size": 301952,
+      "source_sha256": "4d5f4f3fc6a8cc8ea1c0f759418de6113a74f4fb8583f77bf8941293b4ed1f81",
+      "sha256": "4d5f4f3fc6a8cc8ea1c0f759418de6113a74f4fb8583f77bf8941293b4ed1f81"
+    },
+    "game/data/challenge_26.pak": {
+      "size": 111024,
+      "source_sha256": "7953c166775ec09e57cad5ee509d06a274bff078b875d6868cf042cce6cffe5b",
+      "sha256": "7953c166775ec09e57cad5ee509d06a274bff078b875d6868cf042cce6cffe5b"
+    },
+    "game/data/moleknight.pak": {
+      "size": 223296,
+      "source_sha256": "667ad5a8cbbe842acbd8c824005d140f892c2488c5087c89104a535ff69cf49e",
+      "sha256": "667ad5a8cbbe842acbd8c824005d140f892c2488c5087c89104a535ff69cf49e"
+    },
+    "game/data/kk_w3_birder_2.pak": {
+      "size": 424864,
+      "source_sha256": "42ee2ec3384ceadeb44ae3768b6b0e62107e9975503224572c43d2730c18f454",
+      "sha256": "42ee2ec3384ceadeb44ae3768b6b0e62107e9975503224572c43d2730c18f454"
+    },
+    "game/data/kk_w2_explodatorium_3.pak": {
+      "size": 411688,
+      "source_sha256": "756f16aed9a57b5fb04d09c067e49b29270b678d8abcf9c3a553dfda3b39fa76",
+      "sha256": "756f16aed9a57b5fb04d09c067e49b29270b678d8abcf9c3a553dfda3b39fa76"
+    },
+    "game/data/challenge_10.pak": {
+      "size": 98784,
+      "source_sha256": "276a4852c2068b965782b6819f414398394f61c975a01b9a71ca358f71740cc2",
+      "sha256": "276a4852c2068b965782b6819f414398394f61c975a01b9a71ca358f71740cc2"
+    },
+    "game/data/kk_w4_cardhouse_1.pak": {
+      "size": 1599128,
+      "source_sha256": "8aadcff64c3364a94afa89d93dbf8ba473c0405034b0478eb323b0d666d59a54",
+      "sha256": "8aadcff64c3364a94afa89d93dbf8ba473c0405034b0478eb323b0d666d59a54"
+    },
+    "game/data/encounter_BlackKnight.pak": {
+      "size": 73888,
+      "source_sha256": "af41951cb8d9db00af4bf3500a1b1890c1a05c46dda1661fe2fd3d1deb1372d3",
+      "sha256": "af41951cb8d9db00af4bf3500a1b1890c1a05c46dda1661fe2fd3d1deb1372d3"
+    },
+    "game/data/singleScreenEvent_w1_2.pak": {
+      "size": 132032,
+      "source_sha256": "62a69642a98ec94d5b1772a10a83a5e5b8a3c227534b27bc61c267a05f259bee",
+      "sha256": "62a69642a98ec94d5b1772a10a83a5e5b8a3c227534b27bc61c267a05f259bee"
+    },
+    "game/data/kk_w3_relic_1.pak": {
+      "size": 789216,
+      "source_sha256": "77eb75afec280881e8bac4820e9a513478a17f1530f8d04eb6ca9ab1a73ee59a",
+      "sha256": "77eb75afec280881e8bac4820e9a513478a17f1530f8d04eb6ca9ab1a73ee59a"
+    },
+    "game/data/credits_iron_whale_plague.pak": {
+      "size": 106208,
+      "source_sha256": "df81c66c3c6c441a965ecd4181274109522ff68b82f8deabc838db005137265d",
+      "sha256": "df81c66c3c6c441a965ecd4181274109522ff68b82f8deabc838db005137265d"
+    },
+    "game/data/float_sequence.pak": {
+      "size": 69496,
+      "source_sha256": "23368102d5cdce5eafaf44054752ef77cf2d497bce5499b6adb8cad2146c6aa8",
+      "sha256": "23368102d5cdce5eafaf44054752ef77cf2d497bce5499b6adb8cad2146c6aa8"
+    },
+    "game/data/plague.fsb": {
+      "size": 19525120,
+      "source_sha256": "9d1bd9155f090a6952f6f4768f844977cf1696f57ec35f17fbc887ec0b009466",
+      "sha256": "9d1bd9155f090a6952f6f4768f844977cf1696f57ec35f17fbc887ec0b009466"
+    },
+    "game/data/kk_w2_troupple_boss.pak": {
+      "size": 975224,
+      "source_sha256": "202c14e76c1bd73168cb58c41d81c6c99c0da5ad93faf8e2a3c13c6a2369a917",
+      "sha256": "202c14e76c1bd73168cb58c41d81c6c99c0da5ad93faf8e2a3c13c6a2369a917"
+    },
+    "game/data/relicChallenge_03.pak": {
+      "size": 290040,
+      "source_sha256": "cb6fe293bb4328018e8bf042cb2f0ea23c000c9694e2a62ef02ef2ebf59d5f07",
+      "sha256": "cb6fe293bb4328018e8bf042cb2f0ea23c000c9694e2a62ef02ef2ebf59d5f07"
+    },
+    "game/data/specterknight.pak": {
+      "size": 687424,
+      "source_sha256": "5393774a75eee5f0a672f132dd9d344d47ba350646dec871bc2db042e649c573",
+      "sha256": "5393774a75eee5f0a672f132dd9d344d47ba350646dec871bc2db042e649c573"
+    },
+    "game/data/battle_alchemy_lab.pak": {
+      "size": 149576,
+      "source_sha256": "ad145f387ab02742c79174c0dfdc35ffc6c044a6d4b788de97570a3352d224d5",
+      "sha256": "ad145f387ab02742c79174c0dfdc35ffc6c044a6d4b788de97570a3352d224d5"
+    },
+    "game/data/village_of_death.pak": {
+      "size": 491192,
+      "source_sha256": "a320a70df6da90cd800abce9a5a0d877ab3bd2faf538bcf3597798770ddb025f",
+      "sha256": "a320a70df6da90cd800abce9a5a0d877ab3bd2faf538bcf3597798770ddb025f"
+    },
+    "game/data/towerNPC.pak": {
+      "size": 492392,
+      "source_sha256": "4c3ccf13b77f062a1041fc25af790299a3bd3500eeabd544eeeba731c52ecdcb",
+      "sha256": "4c3ccf13b77f062a1041fc25af790299a3bd3500eeabd544eeeba731c52ecdcb"
+    },
+    "game/data/bolt.pak": {
+      "size": 194736,
+      "source_sha256": "70fe6739b29de7d63b2e034172ec36a617549e8e3e74f40c8a7fa45bf4becc5d",
+      "sha256": "70fe6739b29de7d63b2e034172ec36a617549e8e3e74f40c8a7fa45bf4becc5d"
+    },
+    "game/data/kk_w2_lostcity_2.pak": {
+      "size": 464016,
+      "source_sha256": "738587613d335e8698baf9a640c9e58f56032a41e62781f549ffae5a1385621d",
+      "sha256": "738587613d335e8698baf9a640c9e58f56032a41e62781f549ffae5a1385621d"
+    },
+    "game/data/battle_cinema_intro_LeftRight.pak": {
+      "size": 158368,
+      "source_sha256": "f8d015e7c45f68438651abe7ebbb6ebde674f2668691632eeef76ea27d2c292c",
+      "sha256": "f8d015e7c45f68438651abe7ebbb6ebde674f2668691632eeef76ea27d2c292c"
+    },
+    "game/data/challenge_32.pak": {
+      "size": 327632,
+      "source_sha256": "0135cf9d70438ff427696c8e441131cd2b343cd7bad48b1bbb1901e356d57709",
+      "sha256": "0135cf9d70438ff427696c8e441131cd2b343cd7bad48b1bbb1901e356d57709"
+    },
+    "game/data/kk_w3_cardhouse_1.pak": {
+      "size": 915584,
+      "source_sha256": "ab895e7c1213f300990be0f813588c2cf42fe4a885ae5c5bb7915cc806c1930f",
+      "sha256": "ab895e7c1213f300990be0f813588c2cf42fe4a885ae5c5bb7915cc806c1930f"
+    },
+    "game/data/village.pak": {
+      "size": 382912,
+      "source_sha256": "e52334bfe6351edf1d0840240cd8ebb69b16896efe2a58a53a52747f8ba0ac63",
+      "sha256": "e52334bfe6351edf1d0840240cd8ebb69b16896efe2a58a53a52747f8ba0ac63"
+    },
+    "game/data/luan.pak": {
+      "size": 112176,
+      "source_sha256": "7702f9b1ae4d74c1c1c94a5dc1163986f4450cbd6a616564065b44c62fd2416f",
+      "sha256": "7702f9b1ae4d74c1c1c94a5dc1163986f4450cbd6a616564065b44c62fd2416f"
+    },
+    "game/data/music_v2.fsb": {
+      "size": 26207456,
+      "source_sha256": "bdcb49cc50bc29b04dcf2b35fbc9be86ec8902c6259494fdeba30e2cc206c57a",
+      "sha256": "bdcb49cc50bc29b04dcf2b35fbc9be86ec8902c6259494fdeba30e2cc206c57a"
+    },
+    "game/data/kk_airship_plains_m.pak": {
+      "size": 128312,
+      "source_sha256": "23a4302a8382c08c0eb86c5e56deffb3488798d294488df145ab8717e6ae80e6",
+      "sha256": "23a4302a8382c08c0eb86c5e56deffb3488798d294488df145ab8717e6ae80e6"
+    },
+    "game/data/singleScreenEvent_w1_1.pak": {
+      "size": 140680,
+      "source_sha256": "1aa34ba90b349a9a127555c3beb881b5ff99bf9cc8a400d4906f66a8d964380a",
+      "sha256": "1aa34ba90b349a9a127555c3beb881b5ff99bf9cc8a400d4906f66a8d964380a"
+    },
+    "game/data/plainsOfPassage.pak": {
+      "size": 326520,
+      "source_sha256": "ddf581f9620b3a438a4aee3edc545b1c45e473444c1530c29958c83437228739",
+      "sha256": "ddf581f9620b3a438a4aee3edc545b1c45e473444c1530c29958c83437228739"
+    },
+    "game/data/battle_outro_Treasure.pak": {
+      "size": 95216,
+      "source_sha256": "1bf738354f491491220755fb025e0ddeb57c9b8dcb1beb3314870f12a0d20a42",
+      "sha256": "1bf738354f491491220755fb025e0ddeb57c9b8dcb1beb3314870f12a0d20a42"
+    },
+    "game/data/loctext_fra.pak": {
+      "size": 482384,
+      "source_sha256": "e515da0cd6bd8cd752698674a5846902c7746f26b94057bebceff1438d3fee55",
+      "sha256": "e515da0cd6bd8cd752698674a5846902c7746f26b94057bebceff1438d3fee55"
+    },
+    "game/data/credits_iron_whale_specter.pak": {
+      "size": 395592,
+      "source_sha256": "7c9894c6a7d79a1aaee0831d8bffc511e663b69a8fb5bf37659cf2c0a038e241",
+      "sha256": "7c9894c6a7d79a1aaee0831d8bffc511e663b69a8fb5bf37659cf2c0a038e241"
+    },
+    "game/data/credits_lost_city_plague.pak": {
+      "size": 211496,
+      "source_sha256": "4839614ee2e542b74c0014582b9b52c5012cd6dd4b91412ee8211b4cd2217418",
+      "sha256": "4839614ee2e542b74c0014582b9b52c5012cd6dd4b91412ee8211b4cd2217418"
+    },
+    "game/data/kk_airship_pridemoor.pak": {
+      "size": 91296,
+      "source_sha256": "3b421e05d552561a2fb3a24c623ecfe419cbfe5188dfe0c146e80f0f78eb7d0a",
+      "sha256": "3b421e05d552561a2fb3a24c623ecfe419cbfe5188dfe0c146e80f0f78eb7d0a"
+    },
+    "game/data/encounter_Bolt.pak": {
+      "size": 78352,
+      "source_sha256": "96ceea0b0fee7096910ab7df59993a62858723270e7dc093b6b16094b9dcf282",
+      "sha256": "96ceea0b0fee7096910ab7df59993a62858723270e7dc093b6b16094b9dcf282"
+    },
+    "game/data/kingNPC.pak": {
+      "size": 1363624,
+      "source_sha256": "de90c464d952a60e3547856b12a02fd556c739bee2dc9f99f4b0f7ae194bc18d",
+      "sha256": "de90c464d952a60e3547856b12a02fd556c739bee2dc9f99f4b0f7ae194bc18d"
+    },
+    "game/data/speederBike.pak": {
+      "size": 223712,
+      "source_sha256": "01cef8d6b14764811535c5b4f09feceb7c564f072dbcdca4537954d4dd106102",
+      "sha256": "01cef8d6b14764811535c5b4f09feceb7c564f072dbcdca4537954d4dd106102"
+    },
+    "game/data/KK_Encounter_MoleKnight.pak": {
+      "size": 435960,
+      "source_sha256": "92458d0c69af5484fb6211246b2a51e60771c224726ffe8aa7e23ee9affc322c",
+      "sha256": "92458d0c69af5484fb6211246b2a51e60771c224726ffe8aa7e23ee9affc322c"
+    },
+    "game/data/lost_city.pak": {
+      "size": 496528,
+      "source_sha256": "27c72e76033a72fbb34160fa9e2e88dc6dcf4c500bf00c7dc8ea681de6378083",
+      "sha256": "27c72e76033a72fbb34160fa9e2e88dc6dcf4c500bf00c7dc8ea681de6378083"
+    },
+    "game/data/strandedShip_v2.pak": {
+      "size": 769112,
+      "source_sha256": "d56fbc210f39864d035023dc0b55f72afa5dd6da711346dd88dbf068ffc23be4",
+      "sha256": "d56fbc210f39864d035023dc0b55f72afa5dd6da711346dd88dbf068ffc23be4"
+    },
+    "game/data/credits_specterroom.pak": {
+      "size": 122648,
+      "source_sha256": "9c798e7b609651bcc72029fba4df5f85a1fc33ab731363d4c5be9b11289443e6",
+      "sha256": "9c798e7b609651bcc72029fba4df5f85a1fc33ab731363d4c5be9b11289443e6"
+    },
+    "game/data/challenge_05.pak": {
+      "size": 163200,
+      "source_sha256": "84a44160f02d414481a5f5249d4cef663f20c70d6d2313fa1890545a944221e1",
+      "sha256": "84a44160f02d414481a5f5249d4cef663f20c70d6d2313fa1890545a944221e1"
+    },
+    "game/data/battle_outro_Bolt.pak": {
+      "size": 58552,
+      "source_sha256": "f2be58c2771c01093b7bcf9414f1de08f7a9aac462454e7f7a73f99b3cfbca64",
+      "sha256": "f2be58c2771c01093b7bcf9414f1de08f7a9aac462454e7f7a73f99b3cfbca64"
+    },
+    "game/data/battle_outro_Reize.pak": {
+      "size": 391824,
+      "source_sha256": "35e5adada9c7b244060753d263a60f7b4c7909e8a0adefc0352d86f79e88b389",
+      "sha256": "35e5adada9c7b244060753d263a60f7b4c7909e8a0adefc0352d86f79e88b389"
+    },
+    "game/data/singleScreenEvent_w2_2.pak": {
+      "size": 314120,
+      "source_sha256": "33879b93eb44bdf367c51231753da35fb13d9a4a273380ff4e2a71559a199a01",
+      "sha256": "33879b93eb44bdf367c51231753da35fb13d9a4a273380ff4e2a71559a199a01"
+    },
+    "game/data/effect_m.fsb": {
+      "size": 876672,
+      "source_sha256": "d892d31d5eb48f24c0a773b504aa424e7c6fdd0017cbc42e9a4aac4ed53e9224",
+      "sha256": "d892d31d5eb48f24c0a773b504aa424e7c6fdd0017cbc42e9a4aac4ed53e9224"
+    },
+    "game/data/alchemy_lab.pak": {
+      "size": 578728,
+      "source_sha256": "148822cd2f5cd69ec2f174ed1e21dc125e387595c07b7979459e78cbdc961514",
+      "sha256": "148822cd2f5cd69ec2f174ed1e21dc125e387595c07b7979459e78cbdc961514"
+    },
+    "game/data/battle_cinema_intro_DownUp.pak": {
+      "size": 147136,
+      "source_sha256": "009240be8ed3dc1df570f8fa755573d459cc000de66cae579cade337cce6c1a9",
+      "sha256": "009240be8ed3dc1df570f8fa755573d459cc000de66cae579cade337cce6c1a9"
+    },
+    "game/data/kk_w3_birder_boss.pak": {
+      "size": 1039560,
+      "source_sha256": "422fd19c9cc30422ca7cab7dd3c769daf886ffbfa54d115fd8ce3005db8ef9ee",
+      "sha256": "422fd19c9cc30422ca7cab7dd3c769daf886ffbfa54d115fd8ce3005db8ef9ee"
+    },
+    "game/data/sound_test.pak": {
+      "size": 168432,
+      "source_sha256": "d8c433e37f06b1bbd48f539e921717f57f3b24b76a0028498e8f938499e4dd60",
+      "sha256": "d8c433e37f06b1bbd48f539e921717f57f3b24b76a0028498e8f938499e4dd60"
+    },
+    "game/data/kk_w1_pridemoor_2.pak": {
+      "size": 328232,
+      "source_sha256": "c63c7e5f7545af61cef98695a1e07c63bd872dd3848d670c129c9f9deb8032a2",
+      "sha256": "c63c7e5f7545af61cef98695a1e07c63bd872dd3848d670c129c9f9deb8032a2"
+    },
+    "game/data/bonus_3.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/bonus_2.pak": {
+      "size": 233632,
+      "source_sha256": "3fe1b42d6a806272159a2480be673aebca219eb104ee339ce03001069666ced7",
+      "sha256": "3fe1b42d6a806272159a2480be673aebca219eb104ee339ce03001069666ced7"
+    },
+    "game/data/kk_w1_cardhouse_01.pak": {
+      "size": 1008496,
+      "source_sha256": "fc9c3a3a80d0303d08c3adf28f0db4ff5d05a1ac2881c0e5e10e2b0a6921872f",
+      "sha256": "fc9c3a3a80d0303d08c3adf28f0db4ff5d05a1ac2881c0e5e10e2b0a6921872f"
+    },
+    "game/data/kk_w3_birder_1.pak": {
+      "size": 456872,
+      "source_sha256": "6ca01d9aa1460d4817b021afdf855de52aa7a46eed6f5e06dbc3bc51991bf92b",
+      "sha256": "6ca01d9aa1460d4817b021afdf855de52aa7a46eed6f5e06dbc3bc51991bf92b"
+    },
+    "game/data/tower_of_end_1.pak": {
+      "size": 446352,
+      "source_sha256": "6fdf784d643ca65c79838a48ac19b1ac12f52c2077bd219089d0599b252f8b1e",
+      "sha256": "6fdf784d643ca65c79838a48ac19b1ac12f52c2077bd219089d0599b252f8b1e"
+    },
+    "game/data/flying_machine_objects_v2.pak": {
+      "size": 6136,
+      "source_sha256": "b5bf65f599e2cc51d24dfe72f60ae69ef7e34158808863b77963bafe88ed73f3",
+      "sha256": "b5bf65f599e2cc51d24dfe72f60ae69ef7e34158808863b77963bafe88ed73f3"
+    },
+    "game/data/challenge_40.pak": {
+      "size": 216688,
+      "source_sha256": "6edf029ae4f4d3d3de42669a4abf14cfedc84876071ecaa478a816792ac27a40",
+      "sha256": "6edf029ae4f4d3d3de42669a4abf14cfedc84876071ecaa478a816792ac27a40"
+    },
+    "game/data/ending_plague.pak": {
+      "size": 130600,
+      "source_sha256": "fbc1b3cbe45ee31d25fd61334424ffde45229ce7fad2a916ddd955c48a004fea",
+      "sha256": "fbc1b3cbe45ee31d25fd61334424ffde45229ce7fad2a916ddd955c48a004fea"
+    },
+    "game/data/flying_machine.pak": {
+      "size": 408864,
+      "source_sha256": "436b547d000c713a55bd41077f658be7aa1793537c6826d110dac26ca6be58a7",
+      "sha256": "436b547d000c713a55bd41077f658be7aa1793537c6826d110dac26ca6be58a7"
+    },
+    "game/data/challenge_25.pak": {
+      "size": 331304,
+      "source_sha256": "3c2ffa359c845dbc5ad9a5d217bce8a0767c003c7669ba92ea22763bf6587d67",
+      "sha256": "3c2ffa359c845dbc5ad9a5d217bce8a0767c003c7669ba92ea22763bf6587d67"
+    },
+    "game/data/lost_city_objects.pak": {
+      "size": 290984,
+      "source_sha256": "4729757ff93640adbcaad2d261a3c17607b689c738a95f55e141551533ae19b1",
+      "sha256": "4729757ff93640adbcaad2d261a3c17607b689c738a95f55e141551533ae19b1"
+    },
+    "game/data/plaguePlayerCampaign.pak": {
+      "size": 259216,
+      "source_sha256": "137f7f6d2bbde1be29bf65dab3ff9900818db574447182540832ded8ff400a1a",
+      "sha256": "137f7f6d2bbde1be29bf65dab3ff9900818db574447182540832ded8ff400a1a"
+    },
+    "game/data/battle_clockwork_tower2.pak": {
+      "size": 307816,
+      "source_sha256": "4d427badfba1ead717f635e91563ace377b4bb39cd48b620f3b9486dc7be3120",
+      "sha256": "4d427badfba1ead717f635e91563ace377b4bb39cd48b620f3b9486dc7be3120"
+    },
+    "game/data/challenge_16.pak": {
+      "size": 152976,
+      "source_sha256": "7da155c497f9c289b742e56162409420aa83eb81b2cf5e1dab12e3aa601fd3b6",
+      "sha256": "7da155c497f9c289b742e56162409420aa83eb81b2cf5e1dab12e3aa601fd3b6"
+    },
+    "game/data/credits_d4d_specter.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/iron_whale_v2.pak": {
+      "size": 677120,
+      "source_sha256": "20ef2922165469ea7ac0bb5250f3b58868ec8f67de0febfb02c44baaabfc8257",
+      "sha256": "20ef2922165469ea7ac0bb5250f3b58868ec8f67de0febfb02c44baaabfc8257"
+    },
+    "game/data/credits_d4d.pak": {
+      "size": 109032,
+      "source_sha256": "9f4aa687b0e1e80358be26c24e9dcdb44bc36eed001e55bc767a4a00c2949a03",
+      "sha256": "9f4aa687b0e1e80358be26c24e9dcdb44bc36eed001e55bc767a4a00c2949a03"
+    },
+    "game/data/global_vram.pak": {
+      "size": 3116280,
+      "source_sha256": "a6e2338b2a5586d0af4ead9b0353315f4a0959ce981f7349e1a784459b9d2c0f",
+      "sha256": "a6e2338b2a5586d0af4ead9b0353315f4a0959ce981f7349e1a784459b9d2c0f"
+    },
+    "game/data/kingknight.pak": {
+      "size": 374824,
+      "source_sha256": "a341c9d96e8f6f91c62a754c9057db9aafb032ef7b663d9cb92245e54ff3b420",
+      "sha256": "a341c9d96e8f6f91c62a754c9057db9aafb032ef7b663d9cb92245e54ff3b420"
+    },
+    "game/data/battle_pridemoor2.pak": {
+      "size": 304488,
+      "source_sha256": "bea89b2fdb11fbe96602a09420e853d4104ba4fc4e09cc50170fccf45cc4558a",
+      "sha256": "bea89b2fdb11fbe96602a09420e853d4104ba4fc4e09cc50170fccf45cc4558a"
+    },
+    "game/data/kk_w2_cardhouse01.pak": {
+      "size": 981432,
+      "source_sha256": "b2038aa74c1a7432063039be72fecac883adabff233b39e7ef21ad305328cd3e",
+      "sha256": "b2038aa74c1a7432063039be72fecac883adabff233b39e7ef21ad305328cd3e"
+    },
+    "game/data/pridemoor.pak": {
+      "size": 417888,
+      "source_sha256": "1bce53d051e8946291f07716eb81cfcc35e27bf666efd1621389acf53f47f9b4",
+      "sha256": "1bce53d051e8946291f07716eb81cfcc35e27bf666efd1621389acf53f47f9b4"
+    },
+    "game/data/hatKingNPC.pak": {
+      "size": 345600,
+      "source_sha256": "e5394dee500e3b731705f2650cdcc5ae172affe2af9278d5ec0b2280f6664584",
+      "sha256": "e5394dee500e3b731705f2650cdcc5ae172affe2af9278d5ec0b2280f6664584"
+    },
+    "game/data/credits_village_of_death_plague.pak": {
+      "size": 153728,
+      "source_sha256": "202c75a7428dff70ce0485440415d71da8594f3942764c2965f46d14b29e0d0f",
+      "sha256": "202c75a7428dff70ce0485440415d71da8594f3942764c2965f46d14b29e0d0f"
+    },
+    "game/data/kingHUD.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/challenge_29.pak": {
+      "size": 173536,
+      "source_sha256": "5d139aef62f71653ed7798e6277557a4a7659b2116fa79fc5f634dc282f07a90",
+      "sha256": "5d139aef62f71653ed7798e6277557a4a7659b2116fa79fc5f634dc282f07a90"
+    },
+    "game/data/KK_Encounter_SpecterKnight.pak": {
+      "size": 229456,
+      "source_sha256": "e6e70d1de3d5147f7826af9fd20674d77a818634dfaa241e4f152482f3cec5fe",
+      "sha256": "e6e70d1de3d5147f7826af9fd20674d77a818634dfaa241e4f152482f3cec5fe"
+    },
+    "game/data/float_sequenceStrandedShip.pak": {
+      "size": 331560,
+      "source_sha256": "18dd60bbc76dcc6166360fbbad1476a2850616945a9790534e6a1ba57eb4db9f",
+      "sha256": "18dd60bbc76dcc6166360fbbad1476a2850616945a9790534e6a1ba57eb4db9f"
+    },
+    "game/data/shieldBoss.pak": {
+      "size": 235960,
+      "source_sha256": "ba2495fd582d68d7d20efddf4b29e37f7aa35893e8765781add517f2a7977ced",
+      "sha256": "ba2495fd582d68d7d20efddf4b29e37f7aa35893e8765781add517f2a7977ced"
+    },
+    "game/data/troupple_king.pak": {
+      "size": 432944,
+      "source_sha256": "713ae2b6fea402cf1ea26c41db31010a7d245c6161f35229f4a0b9a3c79c655d",
+      "sha256": "713ae2b6fea402cf1ea26c41db31010a7d245c6161f35229f4a0b9a3c79c655d"
+    },
+    "game/data/battle_outro_Mona.pak": {
+      "size": 657848,
+      "source_sha256": "7dc2361a7be0f3d654b346d73f2494cdf3385dcb4ce3cfb006d5874a7baf833c",
+      "sha256": "7dc2361a7be0f3d654b346d73f2494cdf3385dcb4ce3cfb006d5874a7baf833c"
+    },
+    "game/data/hallOfChamps.pak": {
+      "size": 257744,
+      "source_sha256": "9dd023965ba7c912594fa227b40109b11180d56a7f72c1f26e477023265d3dfa",
+      "sha256": "9dd023965ba7c912594fa227b40109b11180d56a7f72c1f26e477023265d3dfa"
+    },
+    "game/data/king.fsb": {
+      "size": 64105856,
+      "source_sha256": "7af73e00cc1327f914217b7dda9b00ced51ad5ec5f94c384fdf7622708194196",
+      "sha256": "7af73e00cc1327f914217b7dda9b00ced51ad5ec5f94c384fdf7622708194196"
+    },
+    "game/data/global.pak": {
+      "size": 1008512,
+      "source_sha256": "a1fde4ba481d2ef084479b4253f4345313ef8bd165daacb0b7cbbe1fbfd24649",
+      "sha256": "a1fde4ba481d2ef084479b4253f4345313ef8bd165daacb0b7cbbe1fbfd24649"
+    },
+    "game/data/story_specter.pak": {
+      "size": 404272,
+      "source_sha256": "3f148d6043e40db1682043600dc0fff1c50866b13125f84dfa7a92f4abeb8a12",
+      "sha256": "3f148d6043e40db1682043600dc0fff1c50866b13125f84dfa7a92f4abeb8a12"
+    },
+    "game/data/encounter_ZubazEX.pak": {
+      "size": 420472,
+      "source_sha256": "e0904dca3135ed8cab8a6c92914320290535b4b4c4e302a7c77cdfa5369098ca",
+      "sha256": "e0904dca3135ed8cab8a6c92914320290535b4b4c4e302a7c77cdfa5369098ca"
+    },
+    "game/data/credits_clockwork_tower_plague.pak": {
+      "size": 95520,
+      "source_sha256": "899682cbcb222ef3807eef51c6eacc40fbeca2e257e74c2574802a978cd10934",
+      "sha256": "899682cbcb222ef3807eef51c6eacc40fbeca2e257e74c2574802a978cd10934"
+    },
+    "game/data/armorer.pak": {
+      "size": 305096,
+      "source_sha256": "11f19ce15f5ca640a234a65709ac07f20dd54ab65a661aaab2c569ae530acbf5",
+      "sha256": "11f19ce15f5ca640a234a65709ac07f20dd54ab65a661aaab2c569ae530acbf5"
+    },
+    "game/data/card_game_bg.pak": {
+      "size": 79832,
+      "source_sha256": "46cb85a222ba9c840d0333d8339133b7bd0c35a5da9847e26adeac9e6e5cf228",
+      "sha256": "46cb85a222ba9c840d0333d8339133b7bd0c35a5da9847e26adeac9e6e5cf228"
+    },
+    "game/data/polarknight.pak": {
+      "size": 834928,
+      "source_sha256": "e29623df69ac447e7c11c5c4557df076d1b9f86cd687dff5ec22984f95808790",
+      "sha256": "e29623df69ac447e7c11c5c4557df076d1b9f86cd687dff5ec22984f95808790"
+    },
+    "game/data/KK_Encounter_MrHat.pak": {
+      "size": 299720,
+      "source_sha256": "942faa7d591a4d45073165381c1630eaaae0a2a7bea868804dcc184e080d4109",
+      "sha256": "942faa7d591a4d45073165381c1630eaaae0a2a7bea868804dcc184e080d4109"
+    },
+    "game/data/singleScreenEvent_w2_1.pak": {
+      "size": 116512,
+      "source_sha256": "e98d7550ace513279e97f94471e0d802f5723ddc36e35288faa361f203fe2d51",
+      "sha256": "e98d7550ace513279e97f94471e0d802f5723ddc36e35288faa361f203fe2d51"
+    },
+    "game/data/kingPasserbyNPCs.pak": {
+      "size": 181960,
+      "source_sha256": "8000cb37e3790e5d5258343ff62ae3cdda91962af7ce39845dca1c95527dafc3",
+      "sha256": "8000cb37e3790e5d5258343ff62ae3cdda91962af7ce39845dca1c95527dafc3"
+    },
+    "game/data/credits_d4d_plague.pak": {
+      "size": 108816,
+      "source_sha256": "39ca934cd702392a27e3bbbee5d4f42a8342c6eec2214072718c6586cc6d7636",
+      "sha256": "39ca934cd702392a27e3bbbee5d4f42a8342c6eec2214072718c6586cc6d7636"
+    },
+    "game/data/battle_troupple_underground.pak": {
+      "size": 284088,
+      "source_sha256": "b8ccda5ea3ca61202a6ebe904be4202b5ce69979be36ffb51cae6245cb455a4c",
+      "sha256": "b8ccda5ea3ca61202a6ebe904be4202b5ce69979be36ffb51cae6245cb455a4c"
+    },
+    "game/data/character_select_king.pak": {
+      "size": 64088,
+      "source_sha256": "b95a410e1a9c29915402d7b8839c0135138e053d8dbafa47f32af94a870d0be9",
+      "sha256": "b95a410e1a9c29915402d7b8839c0135138e053d8dbafa47f32af94a870d0be9"
+    },
+    "game/data/village_of_death_objects_v2.pak": {
+      "size": 47184,
+      "source_sha256": "3586298557d5aed733eff5b4df8821ae2f6806169bad8d87f24ef96dfcaefa21",
+      "sha256": "3586298557d5aed733eff5b4df8821ae2f6806169bad8d87f24ef96dfcaefa21"
+    },
+    "game/data/kk_airship_plains_n.pak": {
+      "size": 104824,
+      "source_sha256": "ac4356cf3d321b8836d5428735aefc2b0fcbf5b8097d17c87c0126b1cb7463b4",
+      "sha256": "ac4356cf3d321b8836d5428735aefc2b0fcbf5b8097d17c87c0126b1cb7463b4"
+    },
+    "game/data/kk_w1_relic_1.pak": {
+      "size": 246232,
+      "source_sha256": "ed7f8884ad65e8c60340c155c11392ac81c500c45e3599df12639f6ada4aea18",
+      "sha256": "ed7f8884ad65e8c60340c155c11392ac81c500c45e3599df12639f6ada4aea18"
+    },
+    "game/data/battle_outro_Mole.pak": {
+      "size": 138288,
+      "source_sha256": "81ec1740e17b9854af9c88ba0bc1846148599915331546f3ca038dd13609fc60",
+      "sha256": "81ec1740e17b9854af9c88ba0bc1846148599915331546f3ca038dd13609fc60"
+    },
+    "game/data/singleScreenEvent_w3_1.pak": {
+      "size": 266696,
+      "source_sha256": "2e6e96ea8cc4354f469958852ddd022dd03d58be38c72bf733162d41bcf7d181",
+      "sha256": "2e6e96ea8cc4354f469958852ddd022dd03d58be38c72bf733162d41bcf7d181"
+    },
+    "game/data/enchantress.pak": {
+      "size": 900432,
+      "source_sha256": "a570c73ed52f60492b5480aa96c28d623ddc00acdbdd96964a498223145c458a",
+      "sha256": "a570c73ed52f60492b5480aa96c28d623ddc00acdbdd96964a498223145c458a"
+    },
+    "game/data/kk_w2_relic_3.pak": {
+      "size": 345768,
+      "source_sha256": "cafbea634c57cfd3d1f8d51679a54f41207b4ae0fe00e7d3e6126f5aa2a81c18",
+      "sha256": "cafbea634c57cfd3d1f8d51679a54f41207b4ae0fe00e7d3e6126f5aa2a81c18"
+    },
+    "game/data/story_shovel.pak": {
+      "size": 63144,
+      "source_sha256": "3648574555e01e50b7d4cd5118a0044fa51016becd66403f113770416ab2a04f",
+      "sha256": "3648574555e01e50b7d4cd5118a0044fa51016becd66403f113770416ab2a04f"
+    },
+    "game/data/credits_flying_machine.pak": {
+      "size": 136264,
+      "source_sha256": "74956287817f6b974ca3abc2907c8690f3ad19ef5e1c7e5bf9135d2481ea8c57",
+      "sha256": "74956287817f6b974ca3abc2907c8690f3ad19ef5e1c7e5bf9135d2481ea8c57"
+    },
+    "game/data/kk_w2_explodatorium_2.pak": {
+      "size": 308672,
+      "source_sha256": "1aec57f0fbda7330df5f1d444768395335a21c2f2617c10e56ebf9fcbe79be29",
+      "sha256": "1aec57f0fbda7330df5f1d444768395335a21c2f2617c10e56ebf9fcbe79be29"
+    },
+    "game/data/shovelPlayer.pak": {
+      "size": 594024,
+      "source_sha256": "6e954c8a0e63744e0b424060522400b2df0ad8381fb2c43d05895fb4721f0db8",
+      "sha256": "6e954c8a0e63744e0b424060522400b2df0ad8381fb2c43d05895fb4721f0db8"
+    },
+    "game/data/level_map.pak": {
+      "size": 451400,
+      "source_sha256": "5d3d1ce47ea4dd54089881a1680dd53f053d8df7fe2e58891de1699356053af2",
+      "sha256": "5d3d1ce47ea4dd54089881a1680dd53f053d8df7fe2e58891de1699356053af2"
+    },
+    "game/data/clockwork_tower.pak": {
+      "size": 371264,
+      "source_sha256": "83fa393d4ec358c9e3d6223b1a2d5a8f1fb039bc29d6427a3e3ba2ea11cc3a70",
+      "sha256": "83fa393d4ec358c9e3d6223b1a2d5a8f1fb039bc29d6427a3e3ba2ea11cc3a70"
+    },
+    "game/data/plagueEnding.pak": {
+      "size": 168448,
+      "source_sha256": "cec45cc1d4d4c086fe637d8308845949512e8a453e1c3a06eb44cf8b669e1be4",
+      "sha256": "cec45cc1d4d4c086fe637d8308845949512e8a453e1c3a06eb44cf8b669e1be4"
+    },
+    "game/data/card_game.pak": {
+      "size": 1041496,
+      "source_sha256": "8679715db2766fbb7fc59d84458468701c22af0648c5ee73f07386e1149db217",
+      "sha256": "8679715db2766fbb7fc59d84458468701c22af0648c5ee73f07386e1149db217"
+    },
+    "game/data/battle_tower3.pak": {
+      "size": 536224,
+      "source_sha256": "0ec103a7955268730a6817f3241e5ea684aa158aca74bd6032385b9d6e7a6ad5",
+      "sha256": "0ec103a7955268730a6817f3241e5ea684aa158aca74bd6032385b9d6e7a6ad5"
+    },
+    "game/data/bossIntro_pridemoor.pak": {
+      "size": 225648,
+      "source_sha256": "c08ea3d4f1785d974482005656ba40c3f7c7d589dccfc9a74f852e8280d79e8a",
+      "sha256": "c08ea3d4f1785d974482005656ba40c3f7c7d589dccfc9a74f852e8280d79e8a"
+    },
+    "game/data/guard_enemy.pak": {
+      "size": 36944,
+      "source_sha256": "6b086c3437598996653dc302370fb2dc4bec813d5f2529fb5d87c38f6ff6e8a1",
+      "sha256": "6b086c3437598996653dc302370fb2dc4bec813d5f2529fb5d87c38f6ff6e8a1"
+    },
+    "game/data/giga_plague.pak": {
+      "size": 575656,
+      "source_sha256": "d8f73acb27eb0e2eb4e48ec8f2f1766d9153e63281cf10955c072babddb88541",
+      "sha256": "d8f73acb27eb0e2eb4e48ec8f2f1766d9153e63281cf10955c072babddb88541"
+    },
+    "game/data/tower_of_end_1_v2.pak": {
+      "size": 570680,
+      "source_sha256": "9c204bd2945bad4cbf968f80deb2865fdb09f570109f19bbf9cf94db087d4ae0",
+      "sha256": "9c204bd2945bad4cbf968f80deb2865fdb09f570109f19bbf9cf94db087d4ae0"
+    },
+    "game/data/battle_flying_machine.pak": {
+      "size": 201360,
+      "source_sha256": "70df75f7d8ab38df270c7a37eba46817f1e0778c5ba7850749f50b594ef481ec",
+      "sha256": "70df75f7d8ab38df270c7a37eba46817f1e0778c5ba7850749f50b594ef481ec"
+    },
+    "game/data/float_sequenceTower.pak": {
+      "size": 271856,
+      "source_sha256": "b9b3d13b469ecb66174457638ec0046ec5b9e88150ac3899eccac0e294edba24",
+      "sha256": "b9b3d13b469ecb66174457638ec0046ec5b9e88150ac3899eccac0e294edba24"
+    },
+    "game/data/battle_stranded_ship.pak": {
+      "size": 278056,
+      "source_sha256": "d4fa14e968d4bcf37bb495b2d3330ca421e9056f8e0b2079ffffe51ed5ee06af",
+      "sha256": "d4fa14e968d4bcf37bb495b2d3330ca421e9056f8e0b2079ffffe51ed5ee06af"
+    },
+    "game/data/battle_global.pak": {
+      "size": 65440,
+      "source_sha256": "914e9f2838a627f4523655474931623915a328e278ebf66e4f9a27bbdf773847",
+      "sha256": "914e9f2838a627f4523655474931623915a328e278ebf66e4f9a27bbdf773847"
+    },
+    "game/data/battle_outro_Hat.pak": {
+      "size": 168640,
+      "source_sha256": "0bdf84b6ec0602f6a07e11ca2be3429d0267cda4fccd0a236a5bb818a8192a19",
+      "sha256": "0bdf84b6ec0602f6a07e11ca2be3429d0267cda4fccd0a236a5bb818a8192a19"
+    },
+    "game/data/loctext_ita.pak": {
+      "size": 432216,
+      "source_sha256": "8a5654bfa65f1b4728e1bc93c7a5e5cd475fb266aef2671b077c3bb2b9ce14b2",
+      "sha256": "8a5654bfa65f1b4728e1bc93c7a5e5cd475fb266aef2671b077c3bb2b9ce14b2"
+    },
+    "game/data/relicChallenge_01_plague.pak": {
+      "size": 170096,
+      "source_sha256": "fc2186cfd2d3995078e3789808bacddbe28543fd8931d8f9a8acea53cdee4d36",
+      "sha256": "fc2186cfd2d3995078e3789808bacddbe28543fd8931d8f9a8acea53cdee4d36"
+    },
+    "game/data/battle_bolt.pak": {
+      "size": 110832,
+      "source_sha256": "533e41f388749cc2f4d89d544196f4fa4d972d7204630d84ad7ba1a81e7cdd81",
+      "sha256": "533e41f388749cc2f4d89d544196f4fa4d972d7204630d84ad7ba1a81e7cdd81"
+    },
+    "game/data/character_select.pak": {
+      "size": 114904,
+      "source_sha256": "ac0a52d916657aa3645f07d3ce20f1ed94422e6c6edb8b6a7fd64d9253b0b88a",
+      "sha256": "ac0a52d916657aa3645f07d3ce20f1ed94422e6c6edb8b6a7fd64d9253b0b88a"
+    },
+    "game/data/tower_of_end_3.pak": {
+      "size": 1304248,
+      "source_sha256": "fe6af5631073ffc3edc90eca91fbc58a5c9171b5c11a59d7263e23c95199cbde",
+      "sha256": "fe6af5631073ffc3edc90eca91fbc58a5c9171b5c11a59d7263e23c95199cbde"
+    },
+    "game/data/kk_airship_clockwork.pak": {
+      "size": 115032,
+      "source_sha256": "ec95b0d895b5ad3350d0a853fa72a0f5c7e51167b7a90fc64d71fc8714f5a82d",
+      "sha256": "ec95b0d895b5ad3350d0a853fa72a0f5c7e51167b7a90fc64d71fc8714f5a82d"
+    },
+    "game/data/iron_whale_objects.pak": {
+      "size": 72048,
+      "source_sha256": "01bb1c4ee0d6def9a17f2489ad657454ca335ec2214b13771d30b54238b4c155",
+      "sha256": "01bb1c4ee0d6def9a17f2489ad657454ca335ec2214b13771d30b54238b4c155"
+    },
+    "game/data/tinkerknight.pak": {
+      "size": 290280,
+      "source_sha256": "dad52f308c6a19f6634146ce407f01ca224dc1b88f669c7dba2dca70dc1efca2",
+      "sha256": "dad52f308c6a19f6634146ce407f01ca224dc1b88f669c7dba2dca70dc1efca2"
+    },
+    "game/data/showdown_effects.fsb": {
+      "size": 421792,
+      "source_sha256": "78c884834927809edd4e7473b806d3cc14f0c322300037fa4564776603288ed4",
+      "sha256": "78c884834927809edd4e7473b806d3cc14f0c322300037fa4564776603288ed4"
+    },
+    "game/data/float_sequencePlainsNight.pak": {
+      "size": 91744,
+      "source_sha256": "03b80070693ac7c020aa7c7e1d95d1531a6eeda89114056898d1bb890b92d332",
+      "sha256": "03b80070693ac7c020aa7c7e1d95d1531a6eeda89114056898d1bb890b92d332"
+    },
+    "game/data/treasureknight.pak": {
+      "size": 645616,
+      "source_sha256": "7050e889b540a4f2297e0e2520997a63cab95c6c19ce34221f59f13c1e753de4",
+      "sha256": "7050e889b540a4f2297e0e2520997a63cab95c6c19ce34221f59f13c1e753de4"
+    },
+    "game/data/battle_outro_King.pak": {
+      "size": 180232,
+      "source_sha256": "794fbf8e84180e4ad7c9564d43bb7ddac319ddcb5511989c2ee617999ae112bd",
+      "sha256": "794fbf8e84180e4ad7c9564d43bb7ddac319ddcb5511989c2ee617999ae112bd"
+    },
+    "game/data/credits_kingKnightHouse.pak": {
+      "size": 522480,
+      "source_sha256": "494898159d078a77816f5b02e63ec75c543bc4d43bc4d483723e68ec48e7e71c",
+      "sha256": "494898159d078a77816f5b02e63ec75c543bc4d43bc4d483723e68ec48e7e71c"
+    },
+    "game/data/iron_whale_objects_v2.pak": {
+      "size": 30488,
+      "source_sha256": "4cf2cb779af5d764357e385cf78483a31c71a73be99e682ed0f3dbfc12eb15ab",
+      "sha256": "4cf2cb779af5d764357e385cf78483a31c71a73be99e682ed0f3dbfc12eb15ab"
+    },
+    "game/data/kk_airship_card.pak": {
+      "size": 86328,
+      "source_sha256": "8d470df9c9b9e33132af940f9e446dd4caeb092a4a963217b368d03a1e2f9224",
+      "sha256": "8d470df9c9b9e33132af940f9e446dd4caeb092a4a963217b368d03a1e2f9224"
+    },
+    "game/data/pridemoor_objects.pak": {
+      "size": 273696,
+      "source_sha256": "f069242bd3cd2e2ece56e600f88438b533410fdbb653f1aa39c6f74db8769b6c",
+      "sha256": "f069242bd3cd2e2ece56e600f88438b533410fdbb653f1aa39c6f74db8769b6c"
+    },
+    "game/data/credits_strandedShip.pak": {
+      "size": 207800,
+      "source_sha256": "f990b5e2ff6457dedfb215f2f46b4697d88070c008dec6b73949d321007895f2",
+      "sha256": "f990b5e2ff6457dedfb215f2f46b4697d88070c008dec6b73949d321007895f2"
+    },
+    "game/data/challenge_37.pak": {
+      "size": 133616,
+      "source_sha256": "8cdae136e0ab95ba4e41c7791afb774b673385d1cfcfbb4d3773e5d616e027e7",
+      "sha256": "8cdae136e0ab95ba4e41c7791afb774b673385d1cfcfbb4d3773e5d616e027e7"
+    },
+    "game/data/loctext_eng.pak": {
+      "size": 410768,
+      "source_sha256": "2daeffad535d854c0d8ba87e307602557977c69020d99728ca353d4fcf442ab7",
+      "sha256": "2daeffad535d854c0d8ba87e307602557977c69020d99728ca353d4fcf442ab7"
+    },
+    "game/data/kk_w2_lostcity_3.pak": {
+      "size": 437840,
+      "source_sha256": "5b4282ad840dddea069b9a2073d689e4dce411c8cf5179c6576c1ed7c31f3268",
+      "sha256": "5b4282ad840dddea069b9a2073d689e4dce411c8cf5179c6576c1ed7c31f3268"
+    },
+    "game/data/challenge_04.pak": {
+      "size": 159872,
+      "source_sha256": "d949cc4f4fa6bcbf5e3d0c4f28be7418c2116e3db2cb5b3c2cfc668c1348aa1f",
+      "sha256": "d949cc4f4fa6bcbf5e3d0c4f28be7418c2116e3db2cb5b3c2cfc668c1348aa1f"
+    },
+    "game/data/battle_towerHub.pak": {
+      "size": 213880,
+      "source_sha256": "2f87bb870664fe7158e35d5cffdfcdba17c03e47c9043e644167754a18b43d11",
+      "sha256": "2f87bb870664fe7158e35d5cffdfcdba17c03e47c9043e644167754a18b43d11"
+    },
+    "game/data/credits_roll_spk.pak": {
+      "size": 627904,
+      "source_sha256": "6793878dda79768f6310719625281400723ccd8ba4528033cab4f0b670b2cb3a",
+      "sha256": "6793878dda79768f6310719625281400723ccd8ba4528033cab4f0b670b2cb3a"
+    },
+    "game/data/credits_locket.pak": {
+      "size": 154464,
+      "source_sha256": "5aa547238f507f0b0547e3a5092978f992daeea8ce0fd4203baaa501d39bb1cc",
+      "sha256": "5aa547238f507f0b0547e3a5092978f992daeea8ce0fd4203baaa501d39bb1cc"
+    },
+    "game/data/credits_roll.pak": {
+      "size": 121512,
+      "source_sha256": "6be12d6443a8cb79153ce6701ebd93ac1cb41f217b195b7ce4bd24143a1ac8aa",
+      "sha256": "6be12d6443a8cb79153ce6701ebd93ac1cb41f217b195b7ce4bd24143a1ac8aa"
+    },
+    "game/data/battletoads.fsb": {
+      "size": 6794176,
+      "source_sha256": "24208c3b0a9a916703dc60df1fca605f53a654d6112cd46036a21e1b26ae528f",
+      "sha256": "24208c3b0a9a916703dc60df1fca605f53a654d6112cd46036a21e1b26ae528f"
+    },
+    "game/data/battle_outro_DarkReize.pak": {
+      "size": 117032,
+      "source_sha256": "4b811dbfd706e7dffa390f257c660b216b60c22cb3bf86c661fb1f29c2f4dcda",
+      "sha256": "4b811dbfd706e7dffa390f257c660b216b60c22cb3bf86c661fb1f29c2f4dcda"
+    },
+    "game/data/encounter_Hat.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/credits_village_of_death.pak": {
+      "size": 194440,
+      "source_sha256": "f92a05c763a35cc16e877e3da3fcdd301cf7c056629dd34a51af050f22431d7d",
+      "sha256": "f92a05c763a35cc16e877e3da3fcdd301cf7c056629dd34a51af050f22431d7d"
+    },
+    "game/data/credits_iron_whale_king.pak": {
+      "size": 695984,
+      "source_sha256": "8eec31f56818e5d63a2c8b38f5e70e1bbcc07b400489c306f47b74c97860c2cf",
+      "sha256": "8eec31f56818e5d63a2c8b38f5e70e1bbcc07b400489c306f47b74c97860c2cf"
+    },
+    "game/data/kk_airship_lostcity.pak": {
+      "size": 120872,
+      "source_sha256": "cdf02b3ceeda0c48c071c76e81b2a8fa9734de185d66968b84420d5ab32e2370",
+      "sha256": "cdf02b3ceeda0c48c071c76e81b2a8fa9734de185d66968b84420d5ab32e2370"
+    },
+    "game/data/kk_airship_invasion.pak": {
+      "size": 134872,
+      "source_sha256": "d4d7141bc90e1e5fdc3eb0f1883c30fc6459219b4b9b2216c474bc3be23269c4",
+      "sha256": "d4d7141bc90e1e5fdc3eb0f1883c30fc6459219b4b9b2216c474bc3be23269c4"
+    },
+    "game/data/battle_outro_Tinker.pak": {
+      "size": 155224,
+      "source_sha256": "d27a1e2b69bf55b4d80d21dc928fd54894331787bd3bbb8becbb8f41da673e1c",
+      "sha256": "d27a1e2b69bf55b4d80d21dc928fd54894331787bd3bbb8becbb8f41da673e1c"
+    },
+    "game/data/float_sequence_obj.pak": {
+      "size": 2176,
+      "source_sha256": "71fe2212f6634a49601e4ce22e4a5627e79d7dfcf4d4f31cebd486953b21967f",
+      "sha256": "71fe2212f6634a49601e4ce22e4a5627e79d7dfcf4d4f31cebd486953b21967f"
+    },
+    "game/data/story_plague.pak": {
+      "size": 352016,
+      "source_sha256": "65733862ae99e8cf88e4d6a29d01ac2f317cdda597ec645e7a6b4df41674288c",
+      "sha256": "65733862ae99e8cf88e4d6a29d01ac2f317cdda597ec645e7a6b4df41674288c"
+    },
+    "game/data/enchantress_giga.pak": {
+      "size": 1775552,
+      "source_sha256": "567cb2c027f93f3e05f70b100606c2191a7993638b22255ef57cbbd4d8ceff3e",
+      "sha256": "567cb2c027f93f3e05f70b100606c2191a7993638b22255ef57cbbd4d8ceff3e"
+    },
+    "game/data/loctext_spa.pak": {
+      "size": 424808,
+      "source_sha256": "65c86d48afe1f38ef7d11090ebc4620b469e86945a62188fd1fad3a2444be00f",
+      "sha256": "65c86d48afe1f38ef7d11090ebc4620b469e86945a62188fd1fad3a2444be00f"
+    },
+    "game/data/battle_story.pak": {
+      "size": 340816,
+      "source_sha256": "b0ddc02517ad9ad3d142e75222b2eb0e2833724cab433a4e31b8f4f2f0776b3b",
+      "sha256": "b0ddc02517ad9ad3d142e75222b2eb0e2833724cab433a4e31b8f4f2f0776b3b"
+    },
+    "game/data/kk_airship_birder.pak": {
+      "size": 80864,
+      "source_sha256": "8ad67489733164d76b3b5d99226acca82efdfcef7c8332961d8d99c96a9f8cd9",
+      "sha256": "8ad67489733164d76b3b5d99226acca82efdfcef7c8332961d8d99c96a9f8cd9"
+    },
+    "game/data/credits_card_house_king.pak": {
+      "size": 709240,
+      "source_sha256": "5b8485fbc24d7048551af869f89f1c9ca2440fb88315ea09d2f0d5682c475417",
+      "sha256": "5b8485fbc24d7048551af869f89f1c9ca2440fb88315ea09d2f0d5682c475417"
+    },
+    "game/data/challenge_22.pak": {
+      "size": 95184,
+      "source_sha256": "e15d32e4e6ee7a1c8299b30010803b871dec87d5f7effebb6caaa34394ec6738",
+      "sha256": "e15d32e4e6ee7a1c8299b30010803b871dec87d5f7effebb6caaa34394ec6738"
+    },
+    "game/data/kk_airship_tower.pak": {
+      "size": 139064,
+      "source_sha256": "6390a65e29f6081b773787c8279cf25de44edad414cddd726c9b6f7592da3f38",
+      "sha256": "6390a65e29f6081b773787c8279cf25de44edad414cddd726c9b6f7592da3f38"
+    },
+    "game/data/kk_airship_strandedship.pak": {
+      "size": 210304,
+      "source_sha256": "63c0c595c8d9786f0522d30bfe5d524a644663e638714cb74a6fe37a23482e60",
+      "sha256": "63c0c595c8d9786f0522d30bfe5d524a644663e638714cb74a6fe37a23482e60"
+    },
+    "game/data/kk_w2_troupple_2.pak": {
+      "size": 448488,
+      "source_sha256": "d6593591f9e9165ab1d1de6de67b9529d7dabf46df074c17e10cbb493615e1e2",
+      "sha256": "d6593591f9e9165ab1d1de6de67b9529d7dabf46df074c17e10cbb493615e1e2"
+    },
+    "game/data/battle_outro_Black.pak": {
+      "size": 163560,
+      "source_sha256": "a5220c050b6e6da83bb8ad509f47ad8178dc893e714f3713608308cdd1ac12d3",
+      "sha256": "a5220c050b6e6da83bb8ad509f47ad8178dc893e714f3713608308cdd1ac12d3"
+    },
+    "game/data/battle_outro_Liquid.pak": {
+      "size": 529944,
+      "source_sha256": "17ec649d74df8a87b5817efbea78707e56f3ad92934baecb7af122efcbf4aa53",
+      "sha256": "17ec649d74df8a87b5817efbea78707e56f3ad92934baecb7af122efcbf4aa53"
+    },
+    "game/data/kk_w4_tower_3.pak": {
+      "size": 526968,
+      "source_sha256": "975937ed72fc4fc316ad62457811b419fb717cbb61587cb22dd1c35657209515",
+      "sha256": "975937ed72fc4fc316ad62457811b419fb717cbb61587cb22dd1c35657209515"
+    },
+    "game/data/KK_Encounter_PlagueKnight.pak": {
+      "size": 854632,
+      "source_sha256": "2f8d683b644e7e8ea1ad2cfb87b9a2ab3b084cc5b512d86a080476e659206171",
+      "sha256": "2f8d683b644e7e8ea1ad2cfb87b9a2ab3b084cc5b512d86a080476e659206171"
+    },
+    "game/data/challenge_06.pak": {
+      "size": 83864,
+      "source_sha256": "2f99ddd18d2d186cb94f4751fece6a382cc82683edc9cba69c1858ab9bf5e34f",
+      "sha256": "2f99ddd18d2d186cb94f4751fece6a382cc82683edc9cba69c1858ab9bf5e34f"
+    },
+    "game/data/battle_tally.pak": {
+      "size": 382056,
+      "source_sha256": "719c81af7a78864e87dc982044d2062afd4db0cb9704afed9fc58c6e49f6fe0d",
+      "sha256": "719c81af7a78864e87dc982044d2062afd4db0cb9704afed9fc58c6e49f6fe0d"
+    },
+    "game/data/specter.fsb": {
+      "size": 24289600,
+      "source_sha256": "27e0cfdfd115ed2a572fece249af7b199b1e1df22eca30077dae73a7674bfe7c",
+      "sha256": "27e0cfdfd115ed2a572fece249af7b199b1e1df22eca30077dae73a7674bfe7c"
+    },
+    "game/data/kk_w4_tower_1.pak": {
+      "size": 283280,
+      "source_sha256": "5d0afe34da027e5e4cc7828a8b5191866edc8f1b80dc5c299053da4834c5016e",
+      "sha256": "5d0afe34da027e5e4cc7828a8b5191866edc8f1b80dc5c299053da4834c5016e"
+    },
+    "game/data/kingpridemoor.pak": {
+      "size": 541544,
+      "source_sha256": "ef923ac7b96ecafade5579d1bba613db960c6071ed4de4bb7e8db45062e5299d",
+      "sha256": "ef923ac7b96ecafade5579d1bba613db960c6071ed4de4bb7e8db45062e5299d"
+    },
+    "game/data/plagueNPC.pak": {
+      "size": 455768,
+      "source_sha256": "e2d499b12a89df987607ef87b0b2b029e68584bd1852c876f21f9f783dd085f8",
+      "sha256": "e2d499b12a89df987607ef87b0b2b029e68584bd1852c876f21f9f783dd085f8"
+    },
+    "game/data/kk_w3_clockworktower_2.pak": {
+      "size": 854608,
+      "source_sha256": "a5d6ce1dfaef6850cb75f24e595c9c67193d08593f8456be43287c2bcd6f310f",
+      "sha256": "a5d6ce1dfaef6850cb75f24e595c9c67193d08593f8456be43287c2bcd6f310f"
+    },
+    "game/data/sepiaTowerShield.pak": {
+      "size": 446880,
+      "source_sha256": "5e2649d1ebbab6cc67339e36b07446b7964a55244c1186e96ab46cea186771d2",
+      "sha256": "5e2649d1ebbab6cc67339e36b07446b7964a55244c1186e96ab46cea186771d2"
+    },
+    "game/data/blackknight_turtle.pak": {
+      "size": 110992,
+      "source_sha256": "9dd007751fdd58cecae4e92d4e981af00b68472e76d60de5b106fdffc8d072f8",
+      "sha256": "9dd007751fdd58cecae4e92d4e981af00b68472e76d60de5b106fdffc8d072f8"
+    },
+    "game/data/sepiaTowerIntro.pak": {
+      "size": 269584,
+      "source_sha256": "537019243b6a99190c54b793f2a12427fbbd94d2edfd52c24d5f72dd68d67f4a",
+      "sha256": "537019243b6a99190c54b793f2a12427fbbd94d2edfd52c24d5f72dd68d67f4a"
+    },
+    "game/data/kk_w1_lichyard_1.pak": {
+      "size": 691000,
+      "source_sha256": "2a699dfeb513980aae7ea5bd5e136e4c543c1c709b05a22b9848abb39c4804e8",
+      "sha256": "2a699dfeb513980aae7ea5bd5e136e4c543c1c709b05a22b9848abb39c4804e8"
+    },
+    "game/data/lizardMan.pak": {
+      "size": 67528,
+      "source_sha256": "42ea82ba394a22aef935c14527bafa630e336c9adc9e75423c8b1fcad6c20138",
+      "sha256": "42ea82ba394a22aef935c14527bafa630e336c9adc9e75423c8b1fcad6c20138"
+    },
+    "game/data/giga_reize.pak": {
+      "size": 1288824,
+      "source_sha256": "b16347650a79376c2dc514f28de3e1df385fb2744315189fc016535037e58689",
+      "sha256": "b16347650a79376c2dc514f28de3e1df385fb2744315189fc016535037e58689"
+    },
+    "game/data/bossIntro.pak": {
+      "size": 90688,
+      "source_sha256": "b669b4e28c8de21aaa30933a936dff842340e8668b1853f1f98ad50bed4076b2",
+      "sha256": "b669b4e28c8de21aaa30933a936dff842340e8668b1853f1f98ad50bed4076b2"
+    },
+    "game/data/alchemy_lab_objects.pak": {
+      "size": 314376,
+      "source_sha256": "b7ec03dfe0582c85a746e52c6777e9739f989d1e93f71545df5b620e618461ad",
+      "sha256": "b7ec03dfe0582c85a746e52c6777e9739f989d1e93f71545df5b620e618461ad"
+    },
+    "game/data/challenge_global.pak": {
+      "size": 49656,
+      "source_sha256": "faf477047f59964c765d76bc750feaff14326c6850d10026a92903625d441e69",
+      "sha256": "faf477047f59964c765d76bc750feaff14326c6850d10026a92903625d441e69"
+    },
+    "game/data/KK_Encounter_PolarKnight.pak": {
+      "size": 431120,
+      "source_sha256": "51522ad16a1d68d121467f745fec9ad706b86817bb5949d6f34f52cfd17a9a5e",
+      "sha256": "51522ad16a1d68d121467f745fec9ad706b86817bb5949d6f34f52cfd17a9a5e"
+    },
+    "game/data/float_sequenceExplodatorium.pak": {
+      "size": 187808,
+      "source_sha256": "5564fd3287bf4763e1f77376ef92d99fd7e4b06959d90339bfdd0161c55560a5",
+      "sha256": "5564fd3287bf4763e1f77376ef92d99fd7e4b06959d90339bfdd0161c55560a5"
+    },
+    "game/data/battle_clockwork_tower.pak": {
+      "size": 737080,
+      "source_sha256": "f3c42b1ee00f0d2e893c2c7c7c7e67b891029cd9527d99965efb0de69a8ee335",
+      "sha256": "f3c42b1ee00f0d2e893c2c7c7c7e67b891029cd9527d99965efb0de69a8ee335"
+    },
+    "game/data/challenge_39.pak": {
+      "size": 168120,
+      "source_sha256": "a1b4be3763c7be1d2440b403deacff994552d60c8546adf11c199429276e5007",
+      "sha256": "a1b4be3763c7be1d2440b403deacff994552d60c8546adf11c199429276e5007"
+    },
+    "game/data/credits_birder_king.pak": {
+      "size": 434736,
+      "source_sha256": "0c3a5eb05c7d615d9b7dfc0a264db70aef7e17a0b81b8efdd1a9363b8af1fb04",
+      "sha256": "0c3a5eb05c7d615d9b7dfc0a264db70aef7e17a0b81b8efdd1a9363b8af1fb04"
+    },
+    "game/data/sound.fev": {
+      "size": 327610,
+      "source_sha256": "fa8f513192bcf8e5ec7ee7af639d2857b269b4e6517acff64aaf4f12af8a8ba7",
+      "sha256": "fa8f513192bcf8e5ec7ee7af639d2857b269b4e6517acff64aaf4f12af8a8ba7"
+    },
+    "game/data/story_battle.pak": {
+      "size": 446072,
+      "source_sha256": "a3b0f9845da3bd9f781974bc0ad3f9dba2f0e77d4649c593e5775d829b37a5b8",
+      "sha256": "a3b0f9845da3bd9f781974bc0ad3f9dba2f0e77d4649c593e5775d829b37a5b8"
+    },
+    "game/data/battle_outro_Propeller.pak": {
+      "size": 218952,
+      "source_sha256": "27172d71d0175425d18421a654c8a3d70c80cae9af368ab83d74eb962a3efb30",
+      "sha256": "27172d71d0175425d18421a654c8a3d70c80cae9af368ab83d74eb962a3efb30"
+    },
+    "game/data/specterplayerboss.pak": {
+      "size": 530288,
+      "source_sha256": "2f2c33e62bd3f9faaf7f80a71c08c61c936de7084832342ce25d6c58479a82b4",
+      "sha256": "2f2c33e62bd3f9faaf7f80a71c08c61c936de7084832342ce25d6c58479a82b4"
+    },
+    "game/data/music.fsb": {
+      "size": 98024576,
+      "source_sha256": "7e3229e0afe3d86523c331b078c6fc04d6e4ac959033845b7fcea7c7af26fbc9",
+      "sha256": "7e3229e0afe3d86523c331b078c6fc04d6e4ac959033845b7fcea7c7af26fbc9"
+    },
+    "game/data/float_sequencePridemoor.pak": {
+      "size": 173512,
+      "source_sha256": "76e0123f93abd826cd247d5278533641a967c403bdad13871042754d73345dc4",
+      "sha256": "76e0123f93abd826cd247d5278533641a967c403bdad13871042754d73345dc4"
+    },
+    "game/data/float_sequenceCardHouseNight.pak": {
+      "size": 78192,
+      "source_sha256": "bbe68b7711e54989da8014c918382ede00b618dfb46312c1010d01a5775b449d",
+      "sha256": "bbe68b7711e54989da8014c918382ede00b618dfb46312c1010d01a5775b449d"
+    },
+    "game/data/loctext_por.pak": {
+      "size": 447304,
+      "source_sha256": "1e5a6ac0815d8717b69ee96894e015f9d2b4484a41db9a41e70461387f2c15bc",
+      "sha256": "1e5a6ac0815d8717b69ee96894e015f9d2b4484a41db9a41e70461387f2c15bc"
+    },
+    "game/data/shovelPlayer_bottom.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/challenge_44.pak": {
+      "size": 388736,
+      "source_sha256": "ad0ce90e8ec30cc4231ceac9b5a4cc1bfe30df96691514a36d2b46837c810191",
+      "sha256": "ad0ce90e8ec30cc4231ceac9b5a4cc1bfe30df96691514a36d2b46837c810191"
+    },
+    "game/data/battletoadsBattle.pak": {
+      "size": 80792,
+      "source_sha256": "e8a3bfa32fc5a7c839d72d2e2dd41285d621d5feaac1f465191efeb627942ca2",
+      "sha256": "e8a3bfa32fc5a7c839d72d2e2dd41285d621d5feaac1f465191efeb627942ca2"
+    },
+    "game/data/dream_sequence_end.pak": {
+      "size": 336280,
+      "source_sha256": "9583c8414890584f50687f6cf4538b654ebeaee230008ed02873b846c9bb6c91",
+      "sha256": "9583c8414890584f50687f6cf4538b654ebeaee230008ed02873b846c9bb6c91"
+    },
+    "game/data/kk_w1_relic_2.pak": {
+      "size": 203040,
+      "source_sha256": "b5cbe0621edf15f8b75a35175f571b14c36c2b35e709755319e1241556ac9401",
+      "sha256": "b5cbe0621edf15f8b75a35175f571b14c36c2b35e709755319e1241556ac9401"
+    },
+    "game/data/kk_w3_strandedship_1.pak": {
+      "size": 439168,
+      "source_sha256": "bc427583ee03b65e221556e682005e80e77662e8137e138aee3673a85b05affe",
+      "sha256": "bc427583ee03b65e221556e682005e80e77662e8137e138aee3673a85b05affe"
+    },
+    "game/data/credits_alchemy_lab.pak": {
+      "size": 197480,
+      "source_sha256": "777502b83f6695a7f0001c482e9ee9c6ca05536ddd9a6c22b8e30ceb264d43d8",
+      "sha256": "777502b83f6695a7f0001c482e9ee9c6ca05536ddd9a6c22b8e30ceb264d43d8"
+    },
+    "game/data/challenge_33.pak": {
+      "size": 228520,
+      "source_sha256": "e87728ccb1be861d61410d5a0287ca2f26ca116c4436872913483e5d528f4613",
+      "sha256": "e87728ccb1be861d61410d5a0287ca2f26ca116c4436872913483e5d528f4613"
+    },
+    "game/data/battle_colosseum_3plats.pak": {
+      "size": 136296,
+      "source_sha256": "36b3205eedd1b49bccc55df18a9a138968acc52c32975d4f8e08e97a29eeded2",
+      "sha256": "36b3205eedd1b49bccc55df18a9a138968acc52c32975d4f8e08e97a29eeded2"
+    },
+    "game/data/battle_outro_Specter.pak": {
+      "size": 274360,
+      "source_sha256": "b1dde5bdca75543519a1f3b25621def9ab3befc829a971fe322a6f0fa2fecb0d",
+      "sha256": "b1dde5bdca75543519a1f3b25621def9ab3befc829a971fe322a6f0fa2fecb0d"
+    },
+    "game/data/blackknight.pak": {
+      "size": 568544,
+      "source_sha256": "aaf06a4dd985090f858fc72b383d65b627437b4a4e88041039e09251d248872b",
+      "sha256": "aaf06a4dd985090f858fc72b383d65b627437b4a4e88041039e09251d248872b"
+    },
+    "game/data/darkReize.pak": {
+      "size": 231368,
+      "source_sha256": "cc64367a5f4c269f913b987dbf1f6431095a35c1b06e27f6d6521c75d181ff75",
+      "sha256": "cc64367a5f4c269f913b987dbf1f6431095a35c1b06e27f6d6521c75d181ff75"
+    },
+    "game/data/kk_w2_troupple_1.pak": {
+      "size": 428896,
+      "source_sha256": "bc89933e5a03c92e944390f2debc6db8b5d61284f2b69bc018b38a71b30a3746",
+      "sha256": "bc89933e5a03c92e944390f2debc6db8b5d61284f2b69bc018b38a71b30a3746"
+    },
+    "game/data/battle_outro_Plague.pak": {
+      "size": 1134200,
+      "source_sha256": "c9d0932386a100b590fe70670cfd3f1d8bae9c04b192e460a0b6624ae51d22bd",
+      "sha256": "c9d0932386a100b590fe70670cfd3f1d8bae9c04b192e460a0b6624ae51d22bd"
+    },
+    "game/data/float_sequenceLostCity.pak": {
+      "size": 269776,
+      "source_sha256": "f6c91e9217d3c31e32da7a43c424d8a99099f7434a15a4b95a6e3624e4e2874a",
+      "sha256": "f6c91e9217d3c31e32da7a43c424d8a99099f7434a15a4b95a6e3624e4e2874a"
+    },
+    "game/data/challenge_35.pak": {
+      "size": 342520,
+      "source_sha256": "05adb4b5852470e8d0407ab9305823d3dc22c0bd1abe9b0f27314a7bc991d175",
+      "sha256": "05adb4b5852470e8d0407ab9305823d3dc22c0bd1abe9b0f27314a7bc991d175"
+    },
+    "game/data/battle_outro_Polar.pak": {
+      "size": 387336,
+      "source_sha256": "bb39286ecf8d164c333568d2642740e8cf3b23608a9b934a9bd783c3da45a8b1",
+      "sha256": "bb39286ecf8d164c333568d2642740e8cf3b23608a9b934a9bd783c3da45a8b1"
+    },
+    "game/data/kk_w2_ironwhale_1.pak": {
+      "size": 355704,
+      "source_sha256": "03d2293c7d2a491c85a631faa95d28d71a4c0d3bc1f370b7a3b8de23998c10df",
+      "sha256": "03d2293c7d2a491c85a631faa95d28d71a4c0d3bc1f370b7a3b8de23998c10df"
+    },
+    "game/data/shaderupdate.sub": {
+      "size": 4,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    "game/data/hat.pak": {
+      "size": 179760,
+      "source_sha256": "862cea2521f9058ddde053f6e4bc0f16b4310791172b53dbb76a7ff160d71935",
+      "sha256": "862cea2521f9058ddde053f6e4bc0f16b4310791172b53dbb76a7ff160d71935"
+    },
+    "game/data/battle_lost_city_caves.pak": {
+      "size": 169848,
+      "source_sha256": "2f73a4245c02fea8c4b999319b2675d5fc2dd52975c7c408fca56f4c9dac35c2",
+      "sha256": "2f73a4245c02fea8c4b999319b2675d5fc2dd52975c7c408fca56f4c9dac35c2"
+    },
+    "game/data/KK_Encounter_TreasureKnight.pak": {
+      "size": 369424,
+      "source_sha256": "bbfd4d55443479996cea9cea19d7a5cb8bf21f6ba2aabfebc6e594fc293f0f85",
+      "sha256": "bbfd4d55443479996cea9cea19d7a5cb8bf21f6ba2aabfebc6e594fc293f0f85"
+    },
+    "game/data/encounter_02.pak": {
+      "size": 101384,
+      "source_sha256": "f16ba863c674abab2d902e740b1bee744acdfa24e379f2c1dd96fd6f43130e36",
+      "sha256": "f16ba863c674abab2d902e740b1bee744acdfa24e379f2c1dd96fd6f43130e36"
+    },
+    "game/data/credits_coronation_specter.pak": {
+      "size": 1219896,
+      "source_sha256": "874154fd554eab695cdf17c19bb6838451ad0ec74aa8cd4c0148173c8063d7ac",
+      "sha256": "874154fd554eab695cdf17c19bb6838451ad0ec74aa8cd4c0148173c8063d7ac"
+    },
+    "game/data/credits_armorer_king.pak": {
+      "size": 577072,
+      "source_sha256": "3fb2f60ced0eaf88f016ff8eb4ce6da3dedb7393f03370320bd56435c30eeb5e",
+      "sha256": "3fb2f60ced0eaf88f016ff8eb4ce6da3dedb7393f03370320bd56435c30eeb5e"
+    },
+    "game/data/credits_clockwork_tower_specter.pak": {
+      "size": 367280,
+      "source_sha256": "9222779c97b070365c8bbd0d090aaa4fa0e5ad811d6d715739fe6c8a01b487e3",
+      "sha256": "9222779c97b070365c8bbd0d090aaa4fa0e5ad811d6d715739fe6c8a01b487e3"
+    },
+    "game/data/effects.fsb": {
+      "size": 6988992,
+      "source_sha256": "7b454bd191742d420fabe3380d817508438ffb66994f4963ed5ce7bf4f1b6805",
+      "sha256": "7b454bd191742d420fabe3380d817508438ffb66994f4963ed5ce7bf4f1b6805"
+    },
+    "game/data/kk_w2_lostcity_1.pak": {
+      "size": 506616,
+      "source_sha256": "fe4f1c3c6c62049986874c6a6bae11388b15109e349d4582a14f1be4067afb47",
+      "sha256": "fe4f1c3c6c62049986874c6a6bae11388b15109e349d4582a14f1be4067afb47"
+    },
+    "game/data/credits_alchemy_lab_specter.pak": {
+      "size": 505960,
+      "source_sha256": "ed6ec20d848538832b8fd9a75db47e0b92dfec89d57a5943f629211706c82a44",
+      "sha256": "ed6ec20d848538832b8fd9a75db47e0b92dfec89d57a5943f629211706c82a44"
+    },
+    "game/data/bossIntro_troupple.pak": {
+      "size": 264592,
+      "source_sha256": "bb7ca8de8dd179633f63cb07ca28e729bbd3ad905e3cacd01245a1a275fe5840",
+      "sha256": "bb7ca8de8dd179633f63cb07ca28e729bbd3ad905e3cacd01245a1a275fe5840"
+    },
+    "game/data/challenge_41.pak": {
+      "size": 152160,
+      "source_sha256": "065ce3332a39eb2671db877b578ed7a7bb4d625a5c3c8e6c1f440fb1cf3545b8",
+      "sha256": "065ce3332a39eb2671db877b578ed7a7bb4d625a5c3c8e6c1f440fb1cf3545b8"
+    },
+    "game/data/credits_village.pak": {
+      "size": 114176,
+      "source_sha256": "9bc0de56407c272e7b2676e22ebb225a02f50bac523735e1a5628a778bf804c4",
+      "sha256": "9bc0de56407c272e7b2676e22ebb225a02f50bac523735e1a5628a778bf804c4"
+    },
+    "game/data/village_of_death_v2.pak": {
+      "size": 826288,
+      "source_sha256": "bed4e5edabd601d2925593d721ba835a5e5a4a25c1d6f55c244df2c2b4c16ae1",
+      "sha256": "bed4e5edabd601d2925593d721ba835a5e5a4a25c1d6f55c244df2c2b4c16ae1"
+    },
+    "game/data/kingActor.pak": {
+      "size": 47840,
+      "source_sha256": "8a2156cdc5288cf98d2b60e9a6349707ff919f02955848a00b2f777498d4bd27",
+      "sha256": "8a2156cdc5288cf98d2b60e9a6349707ff919f02955848a00b2f777498d4bd27"
+    },
+    "game/data/tallyMenu.pak": {
+      "size": 101656,
+      "source_sha256": "a36ebfb5d406184adb1fd5f10f47cf29b92acb2f0602a33dc4297335b810cfe1",
+      "sha256": "a36ebfb5d406184adb1fd5f10f47cf29b92acb2f0602a33dc4297335b810cfe1"
+    },
+    "game/data/bossIntro_birder.pak": {
+      "size": 191928,
+      "source_sha256": "3925feabe2878a6c5dc3f3a087b3d9788e9c24d2fe50c97617399f31a24ee501",
+      "sha256": "3925feabe2878a6c5dc3f3a087b3d9788e9c24d2fe50c97617399f31a24ee501"
+    },
+    "game/data/dadTalk_pridemoor.pak": {
+      "size": 216224,
+      "source_sha256": "f42fc81df569bd644949f163d19582b7c20ae803fb31ea275ba6060d1d52ccc9",
+      "sha256": "f42fc81df569bd644949f163d19582b7c20ae803fb31ea275ba6060d1d52ccc9"
+    },
+    "game/data/challenge_36.pak": {
+      "size": 151616,
+      "source_sha256": "bd60383aeff3319d82aa35ddb9c7d38dcabc30b57b5523c60286df3c479a4a7e",
+      "sha256": "bd60383aeff3319d82aa35ddb9c7d38dcabc30b57b5523c60286df3c479a4a7e"
+    },
+    "game/data/credits_strandedShip_specter.pak": {
+      "size": 492336,
+      "source_sha256": "b6d5dd457a26ec5e9d71616540290813e28ab4d5b9cb442e6001395090984262",
+      "sha256": "b6d5dd457a26ec5e9d71616540290813e28ab4d5b9cb442e6001395090984262"
+    },
+    "game/data/relicChallenge_02_plague.pak": {
+      "size": 206632,
+      "source_sha256": "e8765b4579337f440ab766bbabf48da6712adfede1d326c90e17ee5a9fed5f29",
+      "sha256": "e8765b4579337f440ab766bbabf48da6712adfede1d326c90e17ee5a9fed5f29"
+    },
+    "game/data/float_sequenceFlyingMachine.pak": {
+      "size": 137432,
+      "source_sha256": "b37126dc59eccc69bcd030cc770d19e82a485fe09774c9028513a7930cee521b",
+      "sha256": "b37126dc59eccc69bcd030cc770d19e82a485fe09774c9028513a7930cee521b"
+    },
+    "game/data/challenge_21.pak": {
+      "size": 132584,
+      "source_sha256": "940efdcc14459e30f61edcb0000e32005b3bea1dc7b29b96f2dc8d45f7151319",
+      "sha256": "940efdcc14459e30f61edcb0000e32005b3bea1dc7b29b96f2dc8d45f7151319"
+    },
+    "game/data/village_kingKnight.pak": {
+      "size": 199304,
+      "source_sha256": "de7d6713f54a86580025dacc985fd4caef4ed265a1922c9484b1b037d20fa156",
+      "sha256": "de7d6713f54a86580025dacc985fd4caef4ed265a1922c9484b1b037d20fa156"
+    },
+    "game/data/fairyGlade.pak": {
+      "size": 991920,
+      "source_sha256": "08edf863307c3b792d5bfd385f4c439f7d6f4716e482976998fbbb5fba66e006",
+      "sha256": "08edf863307c3b792d5bfd385f4c439f7d6f4716e482976998fbbb5fba66e006"
+    },
+    "game/data/challenge_18.pak": {
+      "size": 90744,
+      "source_sha256": "a9d747068c296be1000c2be33c3d4024d47753b096d54304831ff552fbbcc6e7",
+      "sha256": "a9d747068c296be1000c2be33c3d4024d47753b096d54304831ff552fbbcc6e7"
+    },
+    "game/data/credits_hallOfChamps_king.pak": {
+      "size": 143088,
+      "source_sha256": "5cb6fa7028c542fc3327f5ec6b34459084209bf81c6fad9932089ef11b72c230",
+      "sha256": "5cb6fa7028c542fc3327f5ec6b34459084209bf81c6fad9932089ef11b72c230"
+    },
+    "game/data/village_plague.pak": {
+      "size": 1330800,
+      "source_sha256": "d1ffbd5852d953dae9dbee419a710de7f65017e37f1a75eb0f131de1a26fadf1",
+      "sha256": "d1ffbd5852d953dae9dbee419a710de7f65017e37f1a75eb0f131de1a26fadf1"
+    },
+    "game/data/kk_w1_gem_1.pak": {
+      "size": 212192,
+      "source_sha256": "c6846a4d190e2be2140ea382cba5dde865e86439ae11e8f100c45619eb6eb7f7",
+      "sha256": "c6846a4d190e2be2140ea382cba5dde865e86439ae11e8f100c45619eb6eb7f7"
+    },
+    "game/data/credits_plainsOfPassage_plague.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/float_sequenceTroupple.pak": {
+      "size": 220728,
+      "source_sha256": "c0814de819350165bbf6492f2c806e3d1b0828e9e8ba9dd78a5ae6c7284eace7",
+      "sha256": "c0814de819350165bbf6492f2c806e3d1b0828e9e8ba9dd78a5ae6c7284eace7"
+    },
+    "game/data/kk_w1_pridemoor_boss.pak": {
+      "size": 340296,
+      "source_sha256": "79fd2732d98203a9f68bcdf98970e5dfb006f1229dba0c5d80b4b3f2abb8b5cd",
+      "sha256": "79fd2732d98203a9f68bcdf98970e5dfb006f1229dba0c5d80b4b3f2abb8b5cd"
+    },
+    "game/data/battle_colosseum_flat_small.pak": {
+      "size": 158384,
+      "source_sha256": "b67d6945d19499c1a95614b8b41af81bc2c0762b11caefa4079370aa58c778a3",
+      "sha256": "b67d6945d19499c1a95614b8b41af81bc2c0762b11caefa4079370aa58c778a3"
+    },
+    "game/data/credits_village_of_death_specter.pak": {
+      "size": 388672,
+      "source_sha256": "a0ec5acbc1dec8854bc30d9393fff5dc969fb67b1b49c912fdf4744a29c101d6",
+      "sha256": "a0ec5acbc1dec8854bc30d9393fff5dc969fb67b1b49c912fdf4744a29c101d6"
+    },
+    "game/data/shovelBoss.pak": {
+      "size": 101488,
+      "source_sha256": "d1d2c94c6ff6223f8705c55156cf863204ae78a249b4f66e9997f4ddbc04e5ff",
+      "sha256": "d1d2c94c6ff6223f8705c55156cf863204ae78a249b4f66e9997f4ddbc04e5ff"
+    },
+    "game/data/credits_armorer_specter.pak": {
+      "size": 309528,
+      "source_sha256": "2a6e79cc3dfd795a436eb5b7d49df85d50eef6f72c17a775c6298197342bd3fb",
+      "sha256": "2a6e79cc3dfd795a436eb5b7d49df85d50eef6f72c17a775c6298197342bd3fb"
+    },
+    "game/data/battle_colosseum_plats.pak": {
+      "size": 34960,
+      "source_sha256": "8e428e1e1f9467c5c7000cd1504f474d6437f24d55913872745491c244d56d90",
+      "sha256": "8e428e1e1f9467c5c7000cd1504f474d6437f24d55913872745491c244d56d90"
+    },
+    "game/data/credits_pridemoor_plague.pak": {
+      "size": 108648,
+      "source_sha256": "007ca7fa3abaf06bd98e15bd65b552a66c7821794b66d0b1e00bd79e97724486",
+      "sha256": "007ca7fa3abaf06bd98e15bd65b552a66c7821794b66d0b1e00bd79e97724486"
+    },
+    "game/data/credits_iron_whale.pak": {
+      "size": 105928,
+      "source_sha256": "8fa18e04c655acd421e8e39d1415e2126cf5587ab46a128ca2666a42e46cd76f",
+      "sha256": "8fa18e04c655acd421e8e39d1415e2126cf5587ab46a128ca2666a42e46cd76f"
+    },
+    "game/data/plainsOfPassage_v2.pak": {
+      "size": 438608,
+      "source_sha256": "833685a3a34a7892ba978d1f7957d6ccbd2138705a509ed2d40cdfedc7c5b4ce",
+      "sha256": "833685a3a34a7892ba978d1f7957d6ccbd2138705a509ed2d40cdfedc7c5b4ce"
+    },
+    "game/data/challenge_24.pak": {
+      "size": 185592,
+      "source_sha256": "63bea4057328026d7efade21d367c54e0bb78f034540bf1a7edeb35cc569d0e4",
+      "sha256": "63bea4057328026d7efade21d367c54e0bb78f034540bf1a7edeb35cc569d0e4"
+    },
+    "game/data/kk_w1_relic_3.pak": {
+      "size": 244176,
+      "source_sha256": "c6fc2f7c51f58014256cc9521fbc08b5b9183306c28d0e7967c4376e46dbc0cd",
+      "sha256": "c6fc2f7c51f58014256cc9521fbc08b5b9183306c28d0e7967c4376e46dbc0cd"
+    },
+    "game/data/bossIntro_enchantress.pak": {
+      "size": 171112,
+      "source_sha256": "a176ed99369ba6a70a1f5a17c3442416bfd819d9d0fdeb2217e3d6d4c4b31b95",
+      "sha256": "a176ed99369ba6a70a1f5a17c3442416bfd819d9d0fdeb2217e3d6d4c4b31b95"
+    },
+    "game/data/challenge_01.pak": {
+      "size": 321280,
+      "source_sha256": "343efc7cf919e0ceb998550187777fb84a065b4ca2fe643534d1db0e0a6c586f",
+      "sha256": "343efc7cf919e0ceb998550187777fb84a065b4ca2fe643534d1db0e0a6c586f"
+    },
+    "game/data/global_free.pak": {
+      "size": 2082120,
+      "source_sha256": "9dba5249435c53b16273a91e40701573272340a4a595505d2a04339657d7f2f2",
+      "sha256": "9dba5249435c53b16273a91e40701573272340a4a595505d2a04339657d7f2f2"
+    },
+    "game/data/kingSpecterCampaign.pak": {
+      "size": 69728,
+      "source_sha256": "63c8391b9c5a0aec780b890e8d8972314d3dada9dfc17b393a597d5d629cfe2b",
+      "sha256": "63c8391b9c5a0aec780b890e8d8972314d3dada9dfc17b393a597d5d629cfe2b"
+    },
+    "game/data/battle_iron_whale.pak": {
+      "size": 192472,
+      "source_sha256": "3445d97de357d205227385f7e9c3e461a4653445411ea59d78fecf13da95b001",
+      "sha256": "3445d97de357d205227385f7e9c3e461a4653445411ea59d78fecf13da95b001"
+    },
+    "game/data/battle_gameover.pak": {
+      "size": 58800,
+      "source_sha256": "9bf4fe5cf77b811a7781423aa0c705f7ad27cfe144b6c354f436d1aa2cb9ed72",
+      "sha256": "9bf4fe5cf77b811a7781423aa0c705f7ad27cfe144b6c354f436d1aa2cb9ed72"
+    },
+    "game/data/tower_of_end_4_v2.pak": {
+      "size": 288480,
+      "source_sha256": "c5e3b39337b2a128d22b74f1fd14986da899503f086da2f066bdceec5f8eb59a",
+      "sha256": "c5e3b39337b2a128d22b74f1fd14986da899503f086da2f066bdceec5f8eb59a"
+    },
+    "game/data/kk_airship_flyingm.pak": {
+      "size": 121696,
+      "source_sha256": "636acd512b680031a3768393809902f7e886d0ccdb4b27053099d78b57401b2f",
+      "sha256": "636acd512b680031a3768393809902f7e886d0ccdb4b27053099d78b57401b2f"
+    },
+    "game/data/battle_card_house.pak": {
+      "size": 342768,
+      "source_sha256": "79de41433a83f98ebad065f47cdd634cbcaca4cb7a0edd3d0e517382adf99651",
+      "sha256": "79de41433a83f98ebad065f47cdd634cbcaca4cb7a0edd3d0e517382adf99651"
+    },
+    "game/data/challenge_31.pak": {
+      "size": 240512,
+      "source_sha256": "570a7387322dd0575b0211026d6442026c43e27032988fe15f3aa7fa72eb4fda",
+      "sha256": "570a7387322dd0575b0211026d6442026c43e27032988fe15f3aa7fa72eb4fda"
+    },
+    "game/data/challenge_02.pak": {
+      "size": 104296,
+      "source_sha256": "de5ae2b50020b6a6fe5fb004f49a75f85438173bb7d6cba2fff0eebbb4a1735d",
+      "sha256": "de5ae2b50020b6a6fe5fb004f49a75f85438173bb7d6cba2fff0eebbb4a1735d"
+    },
+    "game/data/armorer_plague.pak": {
+      "size": 314416,
+      "source_sha256": "4c56908248c598c16c7ea2edf52d5b5cf0d44baadeaac0fdddea1e32a963b74b",
+      "sha256": "4c56908248c598c16c7ea2edf52d5b5cf0d44baadeaac0fdddea1e32a963b74b"
+    },
+    "game/data/battle_outro_Goldarmor.pak": {
+      "size": 380368,
+      "source_sha256": "a75552e4171845b09e776fb6285f743d4ecb755769a1c0bda95cf54a8f13a865",
+      "sha256": "a75552e4171845b09e776fb6285f743d4ecb755769a1c0bda95cf54a8f13a865"
+    },
+    "game/data/credits_pridemoor.pak": {
+      "size": 104896,
+      "source_sha256": "7668c6c855768743d7e5c60b9f8beb8d47e6bb3c72aff5890b48451a4022bbf2",
+      "sha256": "7668c6c855768743d7e5c60b9f8beb8d47e6bb3c72aff5890b48451a4022bbf2"
+    },
+    "game/data/kingPlayerCampaign.pak": {
+      "size": 480656,
+      "source_sha256": "8526619a060c5ef5bdf857e6d41accf47fc2c093d29c4e1e044ddc8aa200f435",
+      "sha256": "8526619a060c5ef5bdf857e6d41accf47fc2c093d29c4e1e044ddc8aa200f435"
+    },
+    "game/data/tower_of_end_4.pak": {
+      "size": 398560,
+      "source_sha256": "9fc26e38a062d1f02a7d57f3eb3628414407b08d81b62d5ec77f26377e966207",
+      "sha256": "9fc26e38a062d1f02a7d57f3eb3628414407b08d81b62d5ec77f26377e966207"
+    },
+    "game/data/king_effects.fsb": {
+      "size": 2030656,
+      "source_sha256": "aba44217b2accbc7ebb3059c298a8706821222a1ab3b0bc323b9b23a47e6932b",
+      "sha256": "aba44217b2accbc7ebb3059c298a8706821222a1ab3b0bc323b9b23a47e6932b"
+    },
+    "game/data/plaguePlayerObj.pak": {
+      "size": 190384,
+      "source_sha256": "9650b01026ac4137871e3177ad32b147b840564c1cef209e4fdf88e0ef210793",
+      "sha256": "9650b01026ac4137871e3177ad32b147b840564c1cef209e4fdf88e0ef210793"
+    },
+    "game/data/card_game_battle.pak": {
+      "size": 379304,
+      "source_sha256": "b0cb70339b008c175b0539ce5ab071bba7faa169a22a8c22a7ce10a2e331b3d1",
+      "sha256": "b0cb70339b008c175b0539ce5ab071bba7faa169a22a8c22a7ce10a2e331b3d1"
+    },
+    "game/data/kk_w4_tower_2.pak": {
+      "size": 439376,
+      "source_sha256": "bfe6f49cb7d788c90e2f3ab8b08389a1dc56376592772c9833a69857e53c7dc3",
+      "sha256": "bfe6f49cb7d788c90e2f3ab8b08389a1dc56376592772c9833a69857e53c7dc3"
+    },
+    "game/data/credits_village_specter.pak": {
+      "size": 199024,
+      "source_sha256": "46a55c86ad619ec166d8502731a6d4d233fbc955c8627d75915f0018852b8e6c",
+      "sha256": "46a55c86ad619ec166d8502731a6d4d233fbc955c8627d75915f0018852b8e6c"
+    },
+    "game/data/sepiaTowerDeath.pak": {
+      "size": 355664,
+      "source_sha256": "bdeb3fc7096aacfeadd24cf13c68c0492fad51b6d3aa51442834fe7a8907f90b",
+      "sha256": "bdeb3fc7096aacfeadd24cf13c68c0492fad51b6d3aa51442834fe7a8907f90b"
+    },
+    "game/data/battle_plains.pak": {
+      "size": 377824,
+      "source_sha256": "b3b277e94bd9d22b2f0fb2f495303de1a96b2dfd3495cdb15b1d141731f81aa9",
+      "sha256": "b3b277e94bd9d22b2f0fb2f495303de1a96b2dfd3495cdb15b1d141731f81aa9"
+    },
+    "game/data/kk_w3_flyingmachine_3.pak": {
+      "size": 356928,
+      "source_sha256": "2d245c94119ddf1a743798d8f3dffd1c5363280936a49cfb33ff63c9de94f1d2",
+      "sha256": "2d245c94119ddf1a743798d8f3dffd1c5363280936a49cfb33ff63c9de94f1d2"
+    },
+    "game/data/encounter_ghost.pak": {
+      "size": 277960,
+      "source_sha256": "cf6b3acdcffed8f1b20f4c779782d8eb77dd3507273705caf62141a062354cb9",
+      "sha256": "cf6b3acdcffed8f1b20f4c779782d8eb77dd3507273705caf62141a062354cb9"
+    },
+    "game/data/battle_village.pak": {
+      "size": 229240,
+      "source_sha256": "d7f81417f93348532fb68ab2b9065647c8dab0849a40a455cc075ccb7435c9a6",
+      "sha256": "d7f81417f93348532fb68ab2b9065647c8dab0849a40a455cc075ccb7435c9a6"
+    },
+    "game/data/credits_plainsOfPassage.pak": {
+      "size": 24,
+      "source_sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408",
+      "sha256": "0a706a5cfc75d725f7881de724c68667f73e50c12ed788fdf4798c4361a08408"
+    },
+    "game/data/dadTalk_birder.pak": {
+      "size": 86936,
+      "source_sha256": "dc197038a2c74d921bc164cc2b3586d0514bb250099954591632a9c8e6cfd56f",
+      "sha256": "dc197038a2c74d921bc164cc2b3586d0514bb250099954591632a9c8e6cfd56f"
+    },
+    "game/data/battle_outro_Enchantress.pak": {
+      "size": 417760,
+      "source_sha256": "f38d8024be3d4e8e7ab9320e73d6acf96940108dafe8e1ba8012adffbe5fb3a6",
+      "sha256": "f38d8024be3d4e8e7ab9320e73d6acf96940108dafe8e1ba8012adffbe5fb3a6"
+    },
+    "game/data/bigGhost.pak": {
+      "size": 49880,
+      "source_sha256": "54e2f742acb9bc474e297bfeb940e6b134ea678c55c93251ff94535b8c11a19b",
+      "sha256": "54e2f742acb9bc474e297bfeb940e6b134ea678c55c93251ff94535b8c11a19b"
+    },
+    "game/data/kingPlayer.pak": {
+      "size": 914944,
+      "source_sha256": "c3f72e9750a0370ec16c9778370bede44fbea3542deacae4d645bb38323e0eaf",
+      "sha256": "c3f72e9750a0370ec16c9778370bede44fbea3542deacae4d645bb38323e0eaf"
+    },
+    "game/data/battle_outro_Shovel.pak": {
+      "size": 139528,
+      "source_sha256": "5ccdc44da404e1dcbbadf2f2ca51601bc3b182526b1bfa98c965e10869361f7d",
+      "sha256": "5ccdc44da404e1dcbbadf2f2ca51601bc3b182526b1bfa98c965e10869361f7d"
+    },
+    "game/data/credits_pridemoorPost_king.pak": {
+      "size": 489072,
+      "source_sha256": "7d4d03e440af8609c2569ae8b267df0660e63566e68fceb6685f972e9b85c1fb",
+      "sha256": "7d4d03e440af8609c2569ae8b267df0660e63566e68fceb6685f972e9b85c1fb"
+    },
+    "game/data/battle_flying_machine_skiffs.pak": {
+      "size": 971552,
+      "source_sha256": "cf2f8a7f820911a44faf44a0bac1ead0ac3535aa10ec70d05b95d5944b231607",
+      "sha256": "cf2f8a7f820911a44faf44a0bac1ead0ac3535aa10ec70d05b95d5944b231607"
+    },
+    "game/data/battle_global_free.pak": {
+      "size": 11165488,
+      "source_sha256": "1680eaae4c612f5fc0b621c8940c14dd74ea986024f11c7ddfbc6a5dda290852",
+      "sha256": "1680eaae4c612f5fc0b621c8940c14dd74ea986024f11c7ddfbc6a5dda290852"
+    },
+    "game/data/strandedShip_objects.pak": {
+      "size": 56088,
+      "source_sha256": "2b0b8e4909094c1dadec143243e56ff8d7c2f4f57258e77c3479f2b73cacd339",
+      "sha256": "2b0b8e4909094c1dadec143243e56ff8d7c2f4f57258e77c3479f2b73cacd339"
+    },
+    "game/data/battle_armorer.pak": {
+      "size": 279264,
+      "source_sha256": "d5364ce082861ce677068284bb7b2f7db26775da24e7b5dd98c3f180eef99366",
+      "sha256": "d5364ce082861ce677068284bb7b2f7db26775da24e7b5dd98c3f180eef99366"
+    },
+    "game/data/dream_sequence.pak": {
+      "size": 296488,
+      "source_sha256": "e0c60a808407cbae838cba6072af3f10f9ca38d1cf6f28e1515ab85898f813b1",
+      "sha256": "e0c60a808407cbae838cba6072af3f10f9ca38d1cf6f28e1515ab85898f813b1"
+    },
+    "game/data/loctext_jpn.pak": {
+      "size": 1184776,
+      "source_sha256": "05d13b4e306bb8575f2287ad59acd17671326ca3f04887e15ac271df2ce9d3c0",
+      "sha256": "05d13b4e306bb8575f2287ad59acd17671326ca3f04887e15ac271df2ce9d3c0"
+    },
+    "game/data/encounter_Zubaz.pak": {
+      "size": 113248,
+      "source_sha256": "35ff8aa458293fa3eede198141b22d27087474cebe066f2b051f8a47743e79d1",
+      "sha256": "35ff8aa458293fa3eede198141b22d27087474cebe066f2b051f8a47743e79d1"
+    },
+    "game/data/catapult.pak": {
+      "size": 83392,
+      "source_sha256": "c6ce408fbf908e070b6c226f18068893a5404548e44514d3b7b5170d3095599e",
+      "sha256": "c6ce408fbf908e070b6c226f18068893a5404548e44514d3b7b5170d3095599e"
+    },
+    "game/data/singleScreenEvent_w3_3.pak": {
+      "size": 172752,
+      "source_sha256": "70b34473de103714a9956cc87a66b47a618f83340ad983f84fe9173942935c7d",
+      "sha256": "70b34473de103714a9956cc87a66b47a618f83340ad983f84fe9173942935c7d"
+    },
+    "game/data/specterPlayer.pak": {
+      "size": 1630384,
+      "source_sha256": "8c667e28eaa9c80c473e97e6ba568bd7b96da013dce6653c4b6cd6f4d1f531a6",
+      "sha256": "8c667e28eaa9c80c473e97e6ba568bd7b96da013dce6653c4b6cd6f4d1f531a6"
+    },
+    "game/data/kk_airship_ironwhale.pak": {
+      "size": 85048,
+      "source_sha256": "d2251714d7606c630e013243fb562da1e87ad1a34f2508f07fc7c39a95a11dee",
+      "sha256": "d2251714d7606c630e013243fb562da1e87ad1a34f2508f07fc7c39a95a11dee"
+    },
+    "game/data/story.pak": {
+      "size": 370048,
+      "source_sha256": "567917ef05b4b4693adb888e6366aacaa7050e40a64c6553990706755762257c",
+      "sha256": "567917ef05b4b4693adb888e6366aacaa7050e40a64c6553990706755762257c"
+    },
+    "game/data/relicChallenge_01.pak": {
+      "size": 133376,
+      "source_sha256": "6e9bb1b715e7576546af6ed8f32e2e8ffb8017181b5578a2dcf2c901e5129098",
+      "sha256": "6e9bb1b715e7576546af6ed8f32e2e8ffb8017181b5578a2dcf2c901e5129098"
+    },
+    "game/data/float_sequenceIronWhale.pak": {
+      "size": 65080,
+      "source_sha256": "dfb3f65990e77e5c4bd73ec8494f283f93d8caba86301dbf5ae211c215aaf920",
+      "sha256": "dfb3f65990e77e5c4bd73ec8494f283f93d8caba86301dbf5ae211c215aaf920"
+    },
+    "game/data/airshipTable.pak": {
+      "size": 139584,
+      "source_sha256": "69e3a33ae532d68df57d6c6c4271a19d6283998351880d712112c4c02d1568a0",
+      "sha256": "69e3a33ae532d68df57d6c6c4271a19d6283998351880d712112c4c02d1568a0"
+    },
+    "game/data/KK_Encounter_GigaCardia.pak": {
+      "size": 777504,
+      "source_sha256": "7ed4fb4ee6a73b6bdd4774b0e4c9a8dad9012214865701112becba4c0a32358e",
+      "sha256": "7ed4fb4ee6a73b6bdd4774b0e4c9a8dad9012214865701112becba4c0a32358e"
+    },
+    "game/data/kk_w3_clockworktower_1.pak": {
+      "size": 538536,
+      "source_sha256": "e566f189224f4813cb7eb80c62f8c68da45df1d09dcbb3c49727399d001404f9",
+      "sha256": "e566f189224f4813cb7eb80c62f8c68da45df1d09dcbb3c49727399d001404f9"
+    },
+    "game/data/float_sequencePlainsMorning.pak": {
+      "size": 76200,
+      "source_sha256": "eaf358202acbd8ca558ee85d331b2dbdc559ecb0ef9db978e4c43091222d0bb2",
+      "sha256": "eaf358202acbd8ca558ee85d331b2dbdc559ecb0ef9db978e4c43091222d0bb2"
+    },
+    "game/data/challenge_19.pak": {
+      "size": 285928,
+      "source_sha256": "f24fad22feb2726550a69a50a144afb17537bf1efeaa7b2e644a1d79c690f566",
+      "sha256": "f24fad22feb2726550a69a50a144afb17537bf1efeaa7b2e644a1d79c690f566"
+    },
+    "game/data/kk_w1_plains_1.pak": {
+      "size": 289928,
+      "source_sha256": "9761f5d753271100c44d3acde43530fa47116db0c8bae5da2cfd8114030e85ee",
+      "sha256": "9761f5d753271100c44d3acde43530fa47116db0c8bae5da2cfd8114030e85ee"
+    },
+    "game/data/battle_adventure.pak": {
+      "size": 336776,
+      "source_sha256": "05a05c423685385b1e4389d8207afd140240300e1cff69af7dca4591e7c3ab7e",
+      "sha256": "05a05c423685385b1e4389d8207afd140240300e1cff69af7dca4591e7c3ab7e"
+    },
+    "game/data/challenge_30.pak": {
+      "size": 93056,
+      "source_sha256": "61a0dfe0699eee7162c173b0e41dcf61c480553fb98dad2312e322f50155cc93",
+      "sha256": "61a0dfe0699eee7162c173b0e41dcf61c480553fb98dad2312e322f50155cc93"
+    },
+    "game/data/propellerknight.pak": {
+      "size": 404040,
+      "source_sha256": "3082b2fdd94d37e8849d61234308d161f20c12a338f8eea8093fb1eb8f7c3b3e",
+      "sha256": "3082b2fdd94d37e8849d61234308d161f20c12a338f8eea8093fb1eb8f7c3b3e"
+    },
+    "game/data/loctext_kor.pak": {
+      "size": 493768,
+      "source_sha256": "354652a498ca06706445cc372f09a4ec05b1c8a324fe35adb6144838d1b384b7",
+      "sha256": "354652a498ca06706445cc372f09a4ec05b1c8a324fe35adb6144838d1b384b7"
+    },
+    "game/data/towerEating.pak": {
+      "size": 480464,
+      "source_sha256": "3158d4fd8c7c44daf3ce8c2a2aae949d2c8d9fb8cd629beb0b28af5a78686cc2",
+      "sha256": "3158d4fd8c7c44daf3ce8c2a2aae949d2c8d9fb8cd629beb0b28af5a78686cc2"
+    },
+    "game/data/challenge_45.pak": {
+      "size": 178136,
+      "source_sha256": "fec5019727c7ec7306cbd65b609d1290f7707d834c5d04cd9bc2eb02df12376c",
+      "sha256": "fec5019727c7ec7306cbd65b609d1290f7707d834c5d04cd9bc2eb02df12376c"
+    },
+    "game/data/challenge_27.pak": {
+      "size": 123384,
+      "source_sha256": "f9b82079abd3b711fbb7de0762ba76a64031d4ea4ab153a1a5c702138feec99d",
+      "sha256": "f9b82079abd3b711fbb7de0762ba76a64031d4ea4ab153a1a5c702138feec99d"
+    },
+    "game/data/flying_machine_v2.pak": {
+      "size": 445800,
+      "source_sha256": "dc0eb84d3909c420ead4ecf2b7f7114d93c63e8b523c62ad457c1295767b3a2f",
+      "sha256": "dc0eb84d3909c420ead4ecf2b7f7114d93c63e8b523c62ad457c1295767b3a2f"
+    },
+    "game/data/npcs.pak": {
+      "size": 195752,
+      "source_sha256": "367e8fde4255003ad611e7a8d54e6940e75afc030da33037e7d1c20725600693",
+      "sha256": "367e8fde4255003ad611e7a8d54e6940e75afc030da33037e7d1c20725600693"
+    },
+    "game/data/event_BattleToads.pak": {
+      "size": 150408,
+      "source_sha256": "4c78fe412a6d5b68266d9a278189213155aca8e5e1515ef4699e1cc324143533",
+      "sha256": "4c78fe412a6d5b68266d9a278189213155aca8e5e1515ef4699e1cc324143533"
+    },
+    "game/data/strandedShip.pak": {
+      "size": 553056,
+      "source_sha256": "37e776fc5647dc949a591fab5809dbd1c31d3c0153b4d140f59138b47ad715dd",
+      "sha256": "37e776fc5647dc949a591fab5809dbd1c31d3c0153b4d140f59138b47ad715dd"
+    },
+    "game/data/kk_w3_gem_1.pak": {
+      "size": 218328,
+      "source_sha256": "eb28755f8ff70ec3804bef07197d304cd91ca784c83448c2ba1ab438ada6fe1c",
+      "sha256": "eb28755f8ff70ec3804bef07197d304cd91ca784c83448c2ba1ab438ada6fe1c"
+    },
+    "game/data/blackknight_specter.pak": {
+      "size": 227728,
+      "source_sha256": "d5a76280a8fe95c8090812f10f94dda2746d4b0893fbb9f8d254b1e4bf970329",
+      "sha256": "d5a76280a8fe95c8090812f10f94dda2746d4b0893fbb9f8d254b1e4bf970329"
+    },
+    "game/data/kk_w2_relic_2.pak": {
+      "size": 301352,
+      "source_sha256": "7c7d908e10ed1384c6b2b7c8d95f5ec7145674124ef185b38091c2917ef5893b",
+      "sha256": "7c7d908e10ed1384c6b2b7c8d95f5ec7145674124ef185b38091c2917ef5893b"
+    },
+    "game/data/battle_birder.pak": {
+      "size": 178120,
+      "source_sha256": "be8f0154b72d28224f6bd0831632d6d7fd65ed424f7f0b20b6f1b4886a2637eb",
+      "sha256": "be8f0154b72d28224f6bd0831632d6d7fd65ed424f7f0b20b6f1b4886a2637eb"
+    },
+    "game/data/kk_house.pak": {
+      "size": 426448,
+      "source_sha256": "6aa05f02d3f1c68678db678299f823337994c2c048ae108e4e9e6513825656c3",
+      "sha256": "6aa05f02d3f1c68678db678299f823337994c2c048ae108e4e9e6513825656c3"
+    },
+    "game/data/zubaz.pak": {
+      "size": 294600,
+      "source_sha256": "e9f15e013ca982452165f8beb4cb20c877810fe65e0769ea689275f3ccb6500b",
+      "sha256": "e9f15e013ca982452165f8beb4cb20c877810fe65e0769ea689275f3ccb6500b"
+    },
+    "game/data/battle_plains_transforming.pak": {
+      "size": 68272,
+      "source_sha256": "58a9aa6d929bfb12c277b125aeae17c957832954b60faa072b83ebfb52772799",
+      "sha256": "58a9aa6d929bfb12c277b125aeae17c957832954b60faa072b83ebfb52772799"
+    },
+    "game/data/plaguePlayer.pak": {
+      "size": 354608,
+      "source_sha256": "6becc9bf96ef88edabc660c77caa571c0ab469444d7011d9db3cf1c1cda7f8cb",
+      "sha256": "6becc9bf96ef88edabc660c77caa571c0ab469444d7011d9db3cf1c1cda7f8cb"
+    },
+    "game/data/iron_whale.pak": {
+      "size": 876936,
+      "source_sha256": "6af42a7f652c26128928a89d1b15975d6bcf04d41a1e67224ab952dab5ae7bba",
+      "sha256": "6af42a7f652c26128928a89d1b15975d6bcf04d41a1e67224ab952dab5ae7bba"
+    },
+    "game/data/pridemoor_v2.pak": {
+      "size": 848080,
+      "source_sha256": "af3025f599975c875f1cb0da8d4ad79d8d8578cdd621de8b35b8e1db6d538f1f",
+      "sha256": "af3025f599975c875f1cb0da8d4ad79d8d8578cdd621de8b35b8e1db6d538f1f"
+    },
+    "game/data/toads.pak": {
+      "size": 505720,
+      "source_sha256": "c83ed185b68e8ed5b2be142b0262fb678a38cf4f7a66162862b3b1131ab1301f",
+      "sha256": "c83ed185b68e8ed5b2be142b0262fb678a38cf4f7a66162862b3b1131ab1301f"
+    },
+    "game/data/credits_alchemy_lab_plague.pak": {
+      "size": 218984,
+      "source_sha256": "ff6a9bcacb46897259622ed4a8b0192f0eaa71d2d2c830aba81fbe5b3488c5b6",
+      "sha256": "ff6a9bcacb46897259622ed4a8b0192f0eaa71d2d2c830aba81fbe5b3488c5b6"
+    },
+    "game/data/KK_Encounter_TinkerKnight.pak": {
+      "size": 200368,
+      "source_sha256": "f13230c5edeb9d00a22b902259eb8816774cb6fec0eaf2853c0f8c26128a53d1",
+      "sha256": "f13230c5edeb9d00a22b902259eb8816774cb6fec0eaf2853c0f8c26128a53d1"
+    },
+    "game/data/battle_village_of_death.pak": {
+      "size": 249256,
+      "source_sha256": "b46451187bfa4aa636b0eb55dc25dae10003ed53f9db60836fc36555c0ce2452",
+      "sha256": "b46451187bfa4aa636b0eb55dc25dae10003ed53f9db60836fc36555c0ce2452"
+    },
+    "game/data/encounter_01.pak": {
+      "size": 95576,
+      "source_sha256": "b522cc9e9ddafa34d81ccc1d85cd33acbe11c781b258a10296451a18d41b5988",
+      "sha256": "b522cc9e9ddafa34d81ccc1d85cd33acbe11c781b258a10296451a18d41b5988"
+    },
+    "game/data/sepiaTowerPost.pak": {
+      "size": 229064,
+      "source_sha256": "7c1851a00723c25b1cbe3456bf3ea4aa4d995475d34412b331e293f8c501f835",
+      "sha256": "7c1851a00723c25b1cbe3456bf3ea4aa4d995475d34412b331e293f8c501f835"
+    },
+    "game/data/encounter_BoltEX.pak": {
+      "size": 101384,
+      "source_sha256": "fbdce1db6a48c73e1ef8e91004478824e035e00e179c73314ed7683c7fdb0178",
+      "sha256": "fbdce1db6a48c73e1ef8e91004478824e035e00e179c73314ed7683c7fdb0178"
+    },
+    "game/data/loctext_deu.pak": {
+      "size": 466952,
+      "source_sha256": "43c4915fa292aeda5128c033827496ab1f6c1d1463e7286232707a08e9dfa5e2",
+      "sha256": "43c4915fa292aeda5128c033827496ab1f6c1d1463e7286232707a08e9dfa5e2"
+    },
+    "game/data/battle_giga_mirror_room.pak": {
+      "size": 1460424,
+      "source_sha256": "4fd218124d956c6b73ef036bc68ce91b2a266adfc030f8083ba7e64c239b8b42",
+      "sha256": "4fd218124d956c6b73ef036bc68ce91b2a266adfc030f8083ba7e64c239b8b42"
+    },
+    "game/data/switchBlockToggle.pak": {
+      "size": 11488,
+      "source_sha256": "05fb2e4c7d8f0f197524843d8d7602ae4a2dfea856b3193134abe4baed4d51d6",
+      "sha256": "05fb2e4c7d8f0f197524843d8d7602ae4a2dfea856b3193134abe4baed4d51d6"
+    },
+    "game/data/credits_lost_city_specter.pak": {
+      "size": 192840,
+      "source_sha256": "416b2347201850385d1b9addb8dc126c0d80873e20645e347e37c1ba232c9125",
+      "sha256": "416b2347201850385d1b9addb8dc126c0d80873e20645e347e37c1ba232c9125"
+    },
+    "game/data/singleScreenEvent_w3_2.pak": {
+      "size": 273752,
+      "source_sha256": "494a35209983894c094bc8245aab757d33ef8cafec635e60cd153bd793dd5821",
+      "sha256": "494a35209983894c094bc8245aab757d33ef8cafec635e60cd153bd793dd5821"
+    },
+    "game/data/rollCourse_w2.pak": {
+      "size": 17912,
+      "source_sha256": "2492ce88733ac42d2896cd69d48067155769eebf61f5a67c9217b13a89bccf07",
+      "sha256": "2492ce88733ac42d2896cd69d48067155769eebf61f5a67c9217b13a89bccf07"
+    },
+    "game/data/village_of_death_objects.pak": {
+      "size": 342272,
+      "source_sha256": "4053a3abb8691a1e7db7e84cabe681610e1d8348d727eb8d18d7275b25093129",
+      "sha256": "4053a3abb8691a1e7db7e84cabe681610e1d8348d727eb8d18d7275b25093129"
+    },
+    "game/data/battle_giga_mirror_antechamber.pak": {
+      "size": 118776,
+      "source_sha256": "019342083bea20d5bddbe4983b16d5ad4a04c4ea7a2d9b983bd14c0dfc7633df",
+      "sha256": "019342083bea20d5bddbe4983b16d5ad4a04c4ea7a2d9b983bd14c0dfc7633df"
+    },
+    "game/data/credits_roll_kk.pak": {
+      "size": 28672,
+      "source_sha256": "cadb1744ff4aa91bab45219eb2812894651283c27cf7fd18013810a2235063df",
+      "sha256": "cadb1744ff4aa91bab45219eb2812894651283c27cf7fd18013810a2235063df"
+    },
+    "game/data/clockwork_tower_objects.pak": {
+      "size": 611712,
+      "source_sha256": "e3220a5f9a67e14eb2ced7434ae6a53df23be59db8840546194d2269934b74cf",
+      "sha256": "e3220a5f9a67e14eb2ced7434ae6a53df23be59db8840546194d2269934b74cf"
+    },
+    "game/data/credits_roll_battle.pak": {
+      "size": 216840,
+      "source_sha256": "0931124e9f362b811b544c70dd8ba6680ecc2c14568b9193439e557ea4cb2fe3",
+      "sha256": "0931124e9f362b811b544c70dd8ba6680ecc2c14568b9193439e557ea4cb2fe3"
+    },
+    "game/data/skyfish.pak": {
+      "size": 12024,
+      "source_sha256": "0f59383f13ceacd340d8ab859780def891634cbfe59bc32e755dc8055ef77c69",
+      "sha256": "0f59383f13ceacd340d8ab859780def891634cbfe59bc32e755dc8055ef77c69"
+    },
+    "game/data/story_king.pak": {
+      "size": 670928,
+      "source_sha256": "14b355e887974f93a9fac13c2566d8882714194c222b93e9637b4dddfe9d21ff",
+      "sha256": "14b355e887974f93a9fac13c2566d8882714194c222b93e9637b4dddfe9d21ff"
+    },
+    "game/data/towerHub.pak": {
+      "size": 1165080,
+      "source_sha256": "29a2345de852d4655bc4381ed97c38d03c2f77dd5745362111f4e397e9df86bb",
+      "sha256": "29a2345de852d4655bc4381ed97c38d03c2f77dd5745362111f4e397e9df86bb"
+    },
+    "game/data/npcs_village.pak": {
+      "size": 547392,
+      "source_sha256": "49ee2af5079a36e4cdd6ef239a40ec8d2fc3ff605f9c3e76c9c598300f9dad7c",
+      "sha256": "49ee2af5079a36e4cdd6ef239a40ec8d2fc3ff605f9c3e76c9c598300f9dad7c"
+    },
+    "game/data/kk_airship.pak": {
+      "size": 1850208,
+      "source_sha256": "2c66b3ea5164805e0e75f6c6c40135f544b8d5e1461ea9f65a1fd6e2feb74d2e",
+      "sha256": "2c66b3ea5164805e0e75f6c6c40135f544b8d5e1461ea9f65a1fd6e2feb74d2e"
+    },
+    "game/data/relicChallenge_02.pak": {
+      "size": 174760,
+      "source_sha256": "dafa34fae0e5f0db44e81c843fee964dbe4e1a6a5a187b51e0e5da0b9104e4ca",
+      "sha256": "dafa34fae0e5f0db44e81c843fee964dbe4e1a6a5a187b51e0e5da0b9104e4ca"
+    },
+    "game/data/shovelActor.pak": {
+      "size": 44824,
+      "source_sha256": "5219f300b9a5a328129ca3f9f735be366bc260e50cab4d229f73bb05811b7210",
+      "sha256": "5219f300b9a5a328129ca3f9f735be366bc260e50cab4d229f73bb05811b7210"
+    },
+    "game/data/vo.fsb": {
+      "size": 139008,
+      "source_sha256": "6a46b7ff45a4f71a4ca6364c2c618683472226987ca64c7bb6563ccb3aa0dc25",
+      "sha256": "6a46b7ff45a4f71a4ca6364c2c618683472226987ca64c7bb6563ccb3aa0dc25"
+    },
+    "game/data/specter_effects.fsb": {
+      "size": 1426336,
+      "source_sha256": "98b8d1cb4c6f078171d1d6a8f49cf6ce4eb962ca92f24f6c942ea1dadaa6345e",
+      "sha256": "98b8d1cb4c6f078171d1d6a8f49cf6ce4eb962ca92f24f6c942ea1dadaa6345e"
+    },
+    "game/data/credits_towerHub_king.pak": {
+      "size": 286816,
+      "source_sha256": "24d39787be99fb0b118230bd60c3aa4734a51b4971bd2e26b01ac623de60aa0d",
+      "sha256": "24d39787be99fb0b118230bd60c3aa4734a51b4971bd2e26b01ac623de60aa0d"
+    },
+    "game/data/battle_outro_Shield.pak": {
+      "size": 101784,
+      "source_sha256": "2b03c5a604addb63414723fa09784174084198d8e94ae34398777d625f5c721d",
+      "sha256": "2b03c5a604addb63414723fa09784174084198d8e94ae34398777d625f5c721d"
+    },
+    "game/data/kk_w1_plains_2.pak": {
+      "size": 232576,
+      "source_sha256": "52c1dd13c5d51280f510bdc4858fcb92a16c79664b7db773ab1e210935759e96",
+      "sha256": "52c1dd13c5d51280f510bdc4858fcb92a16c79664b7db773ab1e210935759e96"
+    },
+    "game/data/demo_highscore.pak": {
+      "size": 18336,
+      "source_sha256": "a44f9847707092f02f4b589828caea23e22930fdaeaa76a67534243a10942720",
+      "sha256": "a44f9847707092f02f4b589828caea23e22930fdaeaa76a67534243a10942720"
+    },
+    "game/data/plainsOfPassage_objects.pak": {
+      "size": 231776,
+      "source_sha256": "17d696de91aa89bf60bbcd0f36de717480bef96e2bb03e878a26134a2e10762a",
+      "sha256": "17d696de91aa89bf60bbcd0f36de717480bef96e2bb03e878a26134a2e10762a"
+    },
+    "game/data/clockwork_tower_v2.pak": {
+      "size": 687616,
+      "source_sha256": "2d5ce51b700c48206674148441e392054c42868fdf4c22e7ec055032a9490f37",
+      "sha256": "2d5ce51b700c48206674148441e392054c42868fdf4c22e7ec055032a9490f37"
+    },
+    "game/data/ending.pak": {
+      "size": 802200,
+      "source_sha256": "4b66c0a7660b6ab189338f99a82ddb52f632a8bed97e791bf4fd787d0e314d99",
+      "sha256": "4b66c0a7660b6ab189338f99a82ddb52f632a8bed97e791bf4fd787d0e314d99"
+    },
+    "game/data/rainbowBird.pak": {
+      "size": 120560,
+      "source_sha256": "36e01a7ea90e67e2b86e7d97024a98c1d1ab1609e4f5b63c29671774e9760875",
+      "sha256": "36e01a7ea90e67e2b86e7d97024a98c1d1ab1609e4f5b63c29671774e9760875"
+    },
+    "game/data/kk_w2_ironwhale_2.pak": {
+      "size": 816824,
+      "source_sha256": "0b916d41157fbb652245f6ed1cb9fb2ce894a6af587a9a974518ed5598a06fa0",
+      "sha256": "0b916d41157fbb652245f6ed1cb9fb2ce894a6af587a9a974518ed5598a06fa0"
+    },
+    "game/data/kk_airship_lichyard.pak": {
+      "size": 74320,
+      "source_sha256": "8027db34f0e462b504ec9ddac807f4cb09173508100c70c65cbf029670ef0563",
+      "sha256": "8027db34f0e462b504ec9ddac807f4cb09173508100c70c65cbf029670ef0563"
+    },
+    "game/data/kk_airship_plains_d.pak": {
+      "size": 83840,
+      "source_sha256": "81420b536ed897dbefe8f5aed468c4b9960937fa241718aaea0f0e23507e324f",
+      "sha256": "81420b536ed897dbefe8f5aed468c4b9960937fa241718aaea0f0e23507e324f"
+    },
+    "game/data/demo_end.pak": {
+      "size": 2840,
+      "source_sha256": "0eb0e4a9774e19e02dfd22371d037c58c09b0488409d4574e6d309f8a5f46e17",
+      "sha256": "0eb0e4a9774e19e02dfd22371d037c58c09b0488409d4574e6d309f8a5f46e17"
+    },
+    "game/data/challenge_07.pak": {
+      "size": 98080,
+      "source_sha256": "b076ff4b23299b56725f02370e68ea903dc221910ed02265f649d403c715881b",
+      "sha256": "b076ff4b23299b56725f02370e68ea903dc221910ed02265f649d403c715881b"
+    },
+    "game/data/credits_lost_city.pak": {
+      "size": 143560,
+      "source_sha256": "3b0e756095ed7a56e98e8ed365e0e6f2baa21bcc4e6005b384257258df781564",
+      "sha256": "3b0e756095ed7a56e98e8ed365e0e6f2baa21bcc4e6005b384257258df781564"
+    },
+    "game/data/challenge_28.pak": {
+      "size": 280280,
+      "source_sha256": "1ea9ff27f89c12690b9857447bb671e5524f8287e87cf12b819a7755efd7571b",
+      "sha256": "1ea9ff27f89c12690b9857447bb671e5524f8287e87cf12b819a7755efd7571b"
+    },
+    "game/data/float_sequenceClockwork.pak": {
+      "size": 243168,
+      "source_sha256": "5a4816c236291af61e0b4a1944177f9513aff1e7f0ab47a4dbb0c367c61b7ee2",
+      "sha256": "5a4816c236291af61e0b4a1944177f9513aff1e7f0ab47a4dbb0c367c61b7ee2"
+    },
+    "game/data/battle_outro_Zubaz.pak": {
+      "size": 197192,
+      "source_sha256": "fb2a816528dedfd078a62c9969d14bc036663173c3ef5b380fa576fb6eac96f1",
+      "sha256": "fb2a816528dedfd078a62c9969d14bc036663173c3ef5b380fa576fb6eac96f1"
+    },
+    "game/data/battle_cinema_intro_water.pak": {
+      "size": 161744,
+      "source_sha256": "8f47dc6b2461dab4e0b8a64fd1fbb32c5b16991496af0e76616060d592edff50",
+      "sha256": "8f47dc6b2461dab4e0b8a64fd1fbb32c5b16991496af0e76616060d592edff50"
+    },
+    "game/data/level_map_king.pak": {
+      "size": 1609496,
+      "source_sha256": "cdaebe7c83f64c8a72ea1145caeb12db3a7a434e93b90ce52e91c7f3bdac7b43",
+      "sha256": "cdaebe7c83f64c8a72ea1145caeb12db3a7a434e93b90ce52e91c7f3bdac7b43"
+    },
+    "game/data/kk_w3_flyingmachine_1.pak": {
+      "size": 411216,
+      "source_sha256": "39c522392234a55edd217a63e2bd3df07edf6d4237f1c451e82b0a4cec99cbf4",
+      "sha256": "39c522392234a55edd217a63e2bd3df07edf6d4237f1c451e82b0a4cec99cbf4"
+    },
+    "game/data/loctext_zht.pak": {
+      "size": 423144,
+      "source_sha256": "95d62c613c72306ae045eb07c8163a7e19468b43609b5947a6c5ab61d41983a8",
+      "sha256": "95d62c613c72306ae045eb07c8163a7e19468b43609b5947a6c5ab61d41983a8"
+    },
+    "game/data/challenge_43.pak": {
+      "size": 234032,
+      "source_sha256": "7350e80afdc2fd8df4cd0c5fe9d5e95708a1bb7e22c2c96e36193b24b180328b",
+      "sha256": "7350e80afdc2fd8df4cd0c5fe9d5e95708a1bb7e22c2c96e36193b24b180328b"
+    },
+    "game/data/kk_w2_relic_1.pak": {
+      "size": 262360,
+      "source_sha256": "cfbd3f2bd0b0db5a6cfecfd81951f72d6cffd83e64bfa81e78117ef79025bdca",
+      "sha256": "cfbd3f2bd0b0db5a6cfecfd81951f72d6cffd83e64bfa81e78117ef79025bdca"
+    },
+    "game/data/lost_city_v2.pak": {
+      "size": 684024,
+      "source_sha256": "b387561fa5ed7fb8b2236e34373929b5cd246493d72951f8a4e081e20b032fa4",
+      "sha256": "b387561fa5ed7fb8b2236e34373929b5cd246493d72951f8a4e081e20b032fa4"
+    },
+    "game/data/credits_pridemoorPre_king.pak": {
+      "size": 251856,
+      "source_sha256": "6f06f8cf7cf6be5919cf7619a5457f335c11187b4159873dacbccb9e0dc6ef22",
+      "sha256": "6f06f8cf7cf6be5919cf7619a5457f335c11187b4159873dacbccb9e0dc6ef22"
+    },
+    "game/data/bonus_1.pak": {
+      "size": 141384,
+      "source_sha256": "45ed36cd4b7f8cadc3ac4487c6ff45b0a18ca1302de6e8078a239c1a222540aa",
+      "sha256": "45ed36cd4b7f8cadc3ac4487c6ff45b0a18ca1302de6e8078a239c1a222540aa"
+    },
+    "game/data/kk_w1_plains_boss.pak": {
+      "size": 329408,
+      "source_sha256": "e7a859abb193fadb1c9f3ce29ff7a7c1a529471829fbf14a1304d97047a73e80",
+      "sha256": "e7a859abb193fadb1c9f3ce29ff7a7c1a529471829fbf14a1304d97047a73e80"
+    }
+  }
+}

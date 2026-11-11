@@ -1,0 +1,37 @@
+SHOVEL KNIGHT RGDS+ - BETA 1
+
+CLEAN INSTALL
+1. Extract ShovelKnight_RGDSPlus_Beta1_Install.zip on your computer.
+2. Copy APPS into Roms on the memory card. Merge existing folders.
+3. Put your own GOG Linux installer in:
+   Roms/APPS/ShovelKnight_RGDSPlus/gamedata/shovel_knight_treasure_trove_4_1_36252.sh
+4. Launch ShovelKnight.sh normally from the console's Apps menu.
+   Wait during the first import; it can take several minutes.
+
+Do not run the PC installer on the console. No commands or PortMaster are needed.
+The import checks the original files, prepares the audio library locally and starts the game. Keep the installer on your computer. After the first successful launch you may delete only the installer copy inside gamedata to reclaim space; keep game/ and savedata/. Leave enough free space for both the installer and the imported game during setup (about 1 GB is a useful allowance).
+
+EXTRACTED GAME ALTERNATIVE
+If the Linux game is already installed on your computer, copy its game folder into gamedata. It must contain:
+   gamedata/game/64/ShovelKnight
+   gamedata/game/64/lib/  (original Linux libraries)
+   gamedata/game/data/   (all original game data)
+Use the unmodified GOG Linux Treasure Trove 4.1 files. The import checks their contents.
+
+UPDATING THE WORKING ALPHA 1.4
+Copy this APPS folder over the current one and replace files. Keep the existing game/ and savedata/ folders. No new import is needed when the supported game files are already installed. The first launch checks the new public package.
+
+CONTROLS
+D-pad and left stick: movement/navigation.
+Face and shoulder buttons: game's normal controller actions.
+START: start/pause. SELECT: back/select.
+Hold START+SELECT for 1.5 seconds: exit.
+Physical volume buttons work during play. Incoming system volume is restored on exit. The lower screen is turned off during play and restored afterward.
+
+SAVES
+Back up ShovelKnight_RGDSPlus/savedata/ before moving or deleting the port.
+
+IF IT DOES NOT START
+Read ShovelKnight_RGDSPlus/logs/Launcher.txt on your computer.
+Report the issue with ShovelKnight_RGDSPlus/ShovelKnight_TestLogs.zip.
+Never upload your installer, game files, music or saves to GitHub.

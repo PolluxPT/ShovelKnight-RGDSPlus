@@ -1,0 +1,4 @@
+Integration source, runtime sources and build notes:
+https://github.com/PolluxPT/ShovelKnight-RGDSPlus/tree/main/Source
+
+GCC corresponding source download links are in THIRD_PARTY_SOURCES.md beside this file.
